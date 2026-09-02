@@ -140,7 +140,7 @@ export const c = {
   average_setup_time_per_component_dropped: "Average setup time per component dropped from 2 minutes to under 2 seconds. Designers skip pixel measurements completely. ",
   all_text_elements_margins_paddings_backg: "All text elements, margins, paddings, backgrounds, and auto-layouts carry over to Figma with 100% vector accuracy. ",
   drastically_reduced_switching_overhead_c: "Drastically reduced switching overhead. Capture inspiration directly in the browser and drop it onto the canvas instantly. ",
-  shriraam_hemachander_transforms_complex_: "Shriraam Hemachander transforms complex challenges into intuitive, human-centered experiences — ",
+  vignesh_hemachander_transforms_complex_: "Vignesh Muthu transforms complex challenges into intuitive, human-centered experiences — ",
   blending_research_design_and_motion_to_c: "blending research, design, and motion to create lasting impact.",
   my_journey: "My  Journey",
   i_started_with_a_bachelor_s_in: "I started with a Bachelor’s in ",
