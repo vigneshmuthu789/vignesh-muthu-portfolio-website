@@ -1,4 +1,5 @@
 import React, { Suspense } from "react";
+import AutoPlayVideo from "@/src/components/AutoPlayVideo";
 
 /** Generated from the vignesh section "Content".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
@@ -383,7 +384,7 @@ export default function Content() {
             <div className="vignesh-1nt0h1g-container">
               <Suspense fallback={null}>
                 <div className="ssr-variant">
-                  <video src="/assets/media/77bdf6ceb9be056a.mp4" loop preload="none" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <AutoPlayVideo src="/assets/media/77bdf6ceb9be056a.mp4" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </div>
               </Suspense>
             </div>
@@ -406,7 +407,7 @@ export default function Content() {
             <div className="vignesh-kiipqk-container">
               <Suspense fallback={null}>
                 <div className="ssr-variant">
-                  <video src="/assets/media/6bfddb70de926594.mp4" loop preload="none" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <AutoPlayVideo src="/assets/media/6bfddb70de926594.mp4" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </div>
               </Suspense>
             </div>
@@ -429,7 +430,7 @@ export default function Content() {
             <div className="vignesh-c552pv-container">
               <Suspense fallback={null}>
                 <div className="ssr-variant">
-                  <video src="/assets/media/a0859a2d5c8a61e0.mp4" loop preload="none" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <AutoPlayVideo src="/assets/media/a0859a2d5c8a61e0.mp4" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </div>
               </Suspense>
             </div>
@@ -452,7 +453,7 @@ export default function Content() {
             <div className="vignesh-1iskcea-container">
               <Suspense fallback={null}>
                 <div className="ssr-variant">
-                  <video src="/assets/media/cd89f38fd7818657.mp4" loop preload="none" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <AutoPlayVideo src="/assets/media/cd89f38fd7818657.mp4" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </div>
               </Suspense>
             </div>

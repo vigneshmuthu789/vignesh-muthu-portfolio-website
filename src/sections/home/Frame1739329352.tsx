@@ -1,4 +1,7 @@
+"use client";
+
 import React, { Suspense } from "react";
+import AnimatedCounter from "@/src/components/AnimatedCounter";
 
 /** Generated from the vignesh section "Frame 1739329352".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
@@ -23,14 +26,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-yx36ok" data-vignesh-name="Default/ Desktop">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 4" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"4"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={4} fontSize="48px" />
                       </Suspense>
                     </div>
                   </div>
@@ -41,14 +37,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-871qgt" data-vignesh-name="Default/Mobile">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 4" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"4"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={4} fontSize="32px" />
                       </Suspense>
                     </div>
                   </div>
@@ -95,14 +84,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-yx36ok" data-vignesh-name="Default/ Desktop">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 12" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"12"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={12} fontSize="48px" />
                       </Suspense>
                     </div>
                   </div>
@@ -113,14 +95,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-871qgt" data-vignesh-name="Default/Mobile">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 12" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"12"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={12} fontSize="32px" />
                       </Suspense>
                     </div>
                   </div>
@@ -167,14 +142,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-yx36ok" data-vignesh-name="Default/ Desktop">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 10" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"10"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={10} fontSize="48px" />
                       </Suspense>
                     </div>
                   </div>
@@ -185,14 +153,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-871qgt" data-vignesh-name="Default/Mobile">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 10" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
-                          <span aria-hidden="true">
-                            {"0"}
-                          </span>
-                          <span style={{ position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" }}>
-                            {"10"}
-                          </span>
-                        </div>
+                        <AnimatedCounter target={10} fontSize="32px" />
                       </Suspense>
                     </div>
                   </div>

@@ -8,6 +8,7 @@ import Frame1739329355 from "@/src/sections/home/Frame1739329355";
 import Frame1739329356 from "@/src/sections/home/Frame1739329356";
 import Frame17393293552 from "@/src/sections/home/Frame17393293552";
 import Frame17393293562 from "@/src/sections/home/Frame17393293562";
+import AutoPlayVideo from "@/src/components/AutoPlayVideo";
 
 /** The "/" page, composed from its vignesh sections.
  *
@@ -15,6 +16,34 @@ import Frame17393293562 from "@/src/sections/home/Frame17393293562";
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
  *  the RSC flight payload on top of the HTML itself. */
 export default function HomePage() {
+  const hoverStyles = `
+    html body { background: rgb(255, 255, 255); }
+    html { font-size: 75%; }
+    .vignesh-lux5qc {
+      transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+      will-change: transform, box-shadow;
+    }
+    .vignesh-lux5qc:hover {
+      transform: translateY(-8px) scale(1.015) !important;
+      box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.15), 0 0 20px rgba(0, 121, 231, 0.15) !important;
+      border-color: rgba(0, 121, 231, 0.4) !important;
+    }
+    .vignesh-lux5qc img {
+      transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+    .vignesh-lux5qc:hover img {
+      transform: scale(1.04) !important;
+    }
+    .vignesh-1uz9ysl-container button {
+      transition: all 0.3s ease !important;
+    }
+    .vignesh-1uz9ysl-container button:hover {
+      background: rgba(0, 121, 231, 0.1) !important;
+      color: rgb(0, 121, 231) !important;
+      transform: translateX(4px) !important;
+    }
+  `;
+
   return (
     <body>
       {"\n\t\n\t"}
@@ -24,14 +53,14 @@ export default function HomePage() {
       {"\n\t\n\t"}
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1alp9q5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.910Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
-          <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); } html { font-size: 75%; }" }} />
+          <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: hoverStyles }} />
           <div data-vignesh-root="" className="vignesh-c2jrW vignesh-72rtr7" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329347 />
             <Frame1739329351 />
             <div className="vignesh-alwif3">
               <div className="vignesh-seg805-container">
                 <Suspense fallback={null}>
-                  <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/d7199a165350a1c2.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <AutoPlayVideo src="/assets/media/homepage-hero.mp4?v=3" poster="/assets/img/d7199a165350a1c2.webp" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </Suspense>
               </div>
             </div>
@@ -56,7 +85,7 @@ export default function HomePage() {
             </div>
             <div className="vignesh-5r70um-container hidden-72rtr7">
               <Suspense fallback={null}>
-                <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/8794a4fcaa53c1be.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                <AutoPlayVideo src="/assets/media/homepage-hero.mp4?v=3" poster="/assets/img/8794a4fcaa53c1be.webp" style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
               </Suspense>
             </div>
           </div>
