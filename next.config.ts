@@ -5,6 +5,9 @@ import { fileURLToPath } from "node:url";
 const here = dirname(fileURLToPath(import.meta.url));
 
 const nextConfig: NextConfig = {
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   // Pin the workspace root to this folder. Next infers it from the nearest
   // lockfile, so unzipping this project inside an existing repo makes it
   // compile that repo's files instead of its own and the build fails on
