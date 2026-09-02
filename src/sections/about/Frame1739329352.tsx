@@ -86,28 +86,28 @@ export default function Frame1739329352() {
           <div className="ssr-variant hidden-cmstll">
             <div className="framer-sd407j">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img loading="eager" width="960" height="1280" sizes="(min-width: 1440px) 542.4px, (max-width: 1439.98px) calc((100vw - 32px) * 0.6)" srcSet="/assets/img/0a138d9674825984.webp 768w, /assets/img/4bf30e5ff5663ad3.webp 960w" src="/assets/img/4bf30e5ff5663ad3.webp" alt="Shriraam Heachander in casual" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img loading="eager" width="960" height="1280" src="/assets/img/Vignesh 5.jpg" alt="Shriraam Hemachander in casual" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-tkd66p">
             <div className="framer-sd407j">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="960" height="1280" sizes="(min-width: 1440px) 542.4px, (max-width: 1439.98px) calc((100vw - 32px) * 0.6)" srcSet="/assets/img/0a138d9674825984.webp 768w, /assets/img/4bf30e5ff5663ad3.webp 960w" src="/assets/img/4bf30e5ff5663ad3.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="960" height="1280" src="/assets/img/Vignesh 5.jpg" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-cmstll">
             <div className="framer-1g35wqs">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="907" height="1221" sizes="(min-width: 1440px) 349.6px, (max-width: 1439.98px) max((100vw - 32px) * 0.4 - 12px, 1px)" srcSet="/assets/img/6e40b0b35ad77eed.webp 760w, /assets/img/ac581c1f60f1f1a5.webp 907w" src="/assets/img/ac581c1f60f1f1a5.webp" alt="Shriraam Hemachander playing VR Game" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 6.jpg" alt="Shriraam Hemachander playing VR Game" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-tkd66p">
             <div className="framer-1g35wqs">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="907" height="1221" sizes="(min-width: 1440px) 349.6px, (max-width: 1439.98px) max((100vw - 32px) * 0.4 - 12px, 1px)" srcSet="/assets/img/6e40b0b35ad77eed.webp 760w, /assets/img/ac581c1f60f1f1a5.webp 907w" src="/assets/img/ac581c1f60f1f1a5.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 6.jpg" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>

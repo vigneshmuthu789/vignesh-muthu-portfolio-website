@@ -266,7 +266,7 @@ export default function Frame1739329351() {
           <div className="framer-juoxp7" data-framer-appear-id="juoxp7" data-framer-name="Image Container" style={{ opacity: "0.001", transform: "translateY(20px)" }}>
             <div className="framer-1fcsdga">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img width="3024" height="2647" sizes="(min-width: 1440px) 672px, (max-width: 1439.98px) 672px" srcSet="/assets/img/f8263e458a469f8a.webp 512w, /assets/img/f2cb13bb75e3dc89.webp 1024w, /assets/img/58d714e42c37cacb.webp 2048w, /assets/img/52c865b61c5f7ab6.webp 3024w" src="/assets/img/52c865b61c5f7ab6.webp" alt="Shriraam hemachander" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
+                <img width="3024" height="2647" src="/assets/img/vignesh 4.png" alt="Shriraam hemachander" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
               </div>
             </div>
           </div>
