@@ -38,7 +38,7 @@ export default function WorkZeptoPage() {
               <div className="vignesh-1f29lkd">
                 <div className="vignesh-1x2bgg4 hidden-1uxv7jj" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
-                    {"Procure AI"}
+                    {"Zepto Sous-Chef"}
                   </p>
                 </div>
               </div>
@@ -53,7 +53,7 @@ export default function WorkZeptoPage() {
             <div className="ssr-variant">
               <div className="vignesh-px0bt7" data-vignesh-name="Rectangle 3">
                 <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                  <img width="6400" height="4480" sizes="(min-width: 1200px) 100vw, (max-width: 1199.98px) 100vw" srcSet="/assets/img/0827ff30ed054980.webp 512w, /assets/img/26df96b8e2fdc503.webp 1024w, /assets/img/87e1f80a4cf9f32f.webp 2048w, /assets/img/620ccea828bb0f08.webp 4096w, /assets/img/76fb5740fd206b85.webp 6400w" src="/assets/img/76fb5740fd206b85.webp" alt="Procure AI Desktop Mockup 1" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
+                  <img width="6400" height="4480" sizes="(min-width: 1200px) 100vw, (max-width: 1199.98px) 100vw" srcSet="/assets/img/0827ff30ed054980.webp 512w, /assets/img/26df96b8e2fdc503.webp 1024w, /assets/img/87e1f80a4cf9f32f.webp 2048w, /assets/img/620ccea828bb0f08.webp 4096w, /assets/img/76fb5740fd206b85.webp 6400w" src="/assets/img/76fb5740fd206b85.webp" alt="Zepto Desktop Mockup 1" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
                 </div>
               </div>
             </div>
