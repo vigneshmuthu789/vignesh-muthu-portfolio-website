@@ -30,16 +30,16 @@ export default function Frame1739329351() {
             </div>
           </div>
           <div className="ssr-variant hidden-1alp9q5">
-            <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Shriraam Hemachander." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Vignesh Muthu." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "36px", "--vignesh-font-weight": "700", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
-                {"I’m Shriraam Hemachander."}
+                {"I’m Vignesh Muthu."}
               </p>
             </div>
           </div>
           <div className="ssr-variant hidden-72rtr7">
-            <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Shriraam Hemachander." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Vignesh Muthu." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "30px", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
-                {"I’m Shriraam Hemachander."}
+                {"I’m Vignesh Muthu."}
               </p>
             </div>
           </div>

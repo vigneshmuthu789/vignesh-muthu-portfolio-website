@@ -10,7 +10,7 @@ export default function Frame1739329351() {
       <div className="vignesh-45rf9i" data-border="true" data-vignesh-name="Frame 1739329340">
         <div className="vignesh-1j45s1s" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
           <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "36px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.02em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-            {"Shriraam Hemachander transforms complex challenges into intuitive, human-centered experiences — "}
+            {"Vignesh Muthu transforms complex challenges into intuitive, human-centered experiences — "}
             <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-weight": "700", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
               {"blending research, design, and motion to create lasting impact."}
             </span>
@@ -45,7 +45,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam has demonstrated exceptional performance during his time at MPI FoC. He displayed maturity and a skill set beyond his experience level, and was one of the most diligent members of the team. His logical UX strategies and quick turnaround time helped us stay on top of highly demanding requirements from the design team."}
+                          {"VIGNESH MUTHU has demonstrated exceptional performance during his time at MPI FoC. He displayed maturity and a skill set beyond his experience level, and was one of the most diligent members of the team. His logical UX strategies and quick turnaround time helped us stay on top of highly demanding requirements from the design team."}
                         </p>
                       </div>
                     </div>
@@ -74,7 +74,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam played a crucial role in creating the UX designs for our processes and requirements. He showed a strong understanding of both, and was diligent in incorporating stakeholder feedback. Additionally, he proposed UX enhancements to the base design, which are being considered for future implementation by the platform team. He also contributed meaningfully to client presentation decks."}
+                          {"VIGNESH MUTHU played a crucial role in creating the UX designs for our processes and requirements. He showed a strong understanding of both, and was diligent in incorporating stakeholder feedback. Additionally, he proposed UX enhancements to the base design, which are being considered for future implementation by the platform team. He also contributed meaningfully to client presentation decks."}
                         </p>
                       </div>
                     </div>
@@ -103,7 +103,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam consistently delivered high-quality design, offering multiple innovative suggestions that greatly enhanced the user experience. His proactive approach in seeking and integrating feedback from both our team and the client was instrumental in achieving designs that aligned with expectations. His ability to quickly adapt and learn new skills made him a valuable asset to our team"}
+                          {"VIGNESH MUTHU consistently delivered high-quality design, offering multiple innovative suggestions that greatly enhanced the user experience. His proactive approach in seeking and integrating feedback from both our team and the client was instrumental in achieving designs that aligned with expectations. His ability to quickly adapt and learn new skills made him a valuable asset to our team"}
                         </p>
                       </div>
                     </div>
@@ -132,7 +132,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam’s video editing training and proactive attitude helped him take on tasks and complete them on time. He’s a true multitasker, managing several responsibilities simultaneously. Kudos for the video presented in Las Vegas — it was highly appreciated and well-received."}
+                          {"VIGNESH MUTHU’s video editing training and proactive attitude helped him take on tasks and complete them on time. He’s a true multitasker, managing several responsibilities simultaneously. Kudos for the video presented in Las Vegas — it was highly appreciated and well-received."}
                         </p>
                       </div>
                     </div>
@@ -170,7 +170,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam has demonstrated exceptional performance during his time at MPI FoC. He displayed maturity and a skill set beyond his experience level, and was one of the most diligent members of the team. His logical UX strategies and quick turnaround time helped us stay on top of highly demanding requirements from the design team."}
+                          {"VIGNESH MUTHU has demonstrated exceptional performance during his time at MPI FoC. He displayed maturity and a skill set beyond his experience level, and was one of the most diligent members of the team. His logical UX strategies and quick turnaround time helped us stay on top of highly demanding requirements from the design team."}
                         </p>
                       </div>
                     </div>
@@ -198,7 +198,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam played a crucial role in creating the UX designs for our processes and requirements. He showed a strong understanding of both, and was diligent in incorporating stakeholder feedback. Additionally, he proposed UX enhancements to the base design, which are being considered for future implementation by the platform team. He also contributed meaningfully to client presentation decks."}
+                          {"VIGNESH MUTHU played a crucial role in creating the UX designs for our processes and requirements. He showed a strong understanding of both, and was diligent in incorporating stakeholder feedback. Additionally, he proposed UX enhancements to the base design, which are being considered for future implementation by the platform team. He also contributed meaningfully to client presentation decks."}
                         </p>
                       </div>
                     </div>
@@ -226,7 +226,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam consistently delivered high-quality design, offering multiple innovative suggestions that greatly enhanced the user experience. His proactive approach in seeking and integrating feedback from both our team and the client was instrumental in achieving designs that aligned with expectations. His ability to quickly adapt and learn new skills made him a valuable asset to our team"}
+                          {"VIGNESH MUTHU consistently delivered high-quality design, offering multiple innovative suggestions that greatly enhanced the user experience. His proactive approach in seeking and integrating feedback from both our team and the client was instrumental in achieving designs that aligned with expectations. His ability to quickly adapt and learn new skills made him a valuable asset to our team"}
                         </p>
                       </div>
                     </div>
@@ -254,7 +254,7 @@ export default function Frame1739329351() {
                       </div>
                       <div className="vignesh-cax8up" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" }}>
                         <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51)))" }}>
-                          {"Shriraam’s video editing training and proactive attitude helped him take on tasks and complete them on time. He’s a true multitasker, managing several responsibilities simultaneously. Kudos for the video presented in Las Vegas — it was highly appreciated and well-received."}
+                          {"VIGNESH MUTHU’s video editing training and proactive attitude helped him take on tasks and complete them on time. He’s a true multitasker, managing several responsibilities simultaneously. Kudos for the video presented in Las Vegas — it was highly appreciated and well-received."}
                         </p>
                       </div>
                     </div>
@@ -266,7 +266,7 @@ export default function Frame1739329351() {
           <div className="vignesh-juoxp7" data-vignesh-appear-id="juoxp7" data-vignesh-name="Image Container" style={{ opacity: "0.001", transform: "translateY(20px)" }}>
             <div className="vignesh-1fcsdga">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                <img width="3024" height="2647" src="/assets/img/Vignesh 6.webp?v=4" alt="Shriraam hemachander" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
+                <img width="3024" height="2647" src="/assets/img/Vignesh 6.webp?v=4" alt="Vignesh Muthu" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
               </div>
             </div>
           </div>

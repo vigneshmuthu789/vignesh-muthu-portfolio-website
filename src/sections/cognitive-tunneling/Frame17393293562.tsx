@@ -37,9 +37,9 @@ export default function Frame17393293562() {
               {"©2022—2026"}
             </p>
           </div>
-          <div className="vignesh-8ngbc2" data-vignesh-name="/Shriraam Hemachander" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "rgba(255, 255, 255, 0.7)", "--vignesh-paragraph-spacing": "3.927940607070923px", transform: "none" }}>
+          <div className="vignesh-8ngbc2" data-vignesh-name="/Vignesh Muthu" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "rgba(255, 255, 255, 0.7)", "--vignesh-paragraph-spacing": "3.927940607070923px", transform: "none" }}>
             <p dir="auto" className="vignesh-text" style={{ "--vignesh-text-alignment": "center", "--vignesh-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.7))" }}>
-              {"/Shriraam Hemachander"}
+              {"/Vignesh Muthu"}
             </p>
           </div>
         </div>

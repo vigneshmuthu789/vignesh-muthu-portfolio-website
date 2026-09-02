@@ -1,6 +1,6 @@
-# shriraam-vignesh-website
+# vignesh-muthu-portfolio-website
 
-A modern Next.js 16 portfolio site for Shriraam Hemachander.
+A modern Next.js 16 portfolio site for Vignesh Muthu.
 
 ## Development
 
