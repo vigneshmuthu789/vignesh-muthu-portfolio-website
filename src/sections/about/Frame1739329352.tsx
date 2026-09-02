@@ -86,28 +86,28 @@ export default function Frame1739329352() {
           <div className="ssr-variant hidden-cmstll">
             <div className="vignesh-sd407j">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                <img loading="eager" width="960" height="1280" src="/assets/img/vignesh 4.png?v=3" alt="Shriraam Hemachander in casual" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img loading="eager" width="960" height="1280" src="/assets/img/vignesh 4.webp?v=4" alt="Shriraam Hemachander in casual" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-tkd66p">
             <div className="vignesh-sd407j">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="960" height="1280" src="/assets/img/vignesh 4.png?v=3" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="960" height="1280" src="/assets/img/vignesh 4.webp?v=4" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-cmstll">
             <div className="vignesh-1g35wqs">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 5.jpg?v=3" alt="Shriraam Hemachander playing VR Game" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 5.webp?v=4" alt="Shriraam Hemachander playing VR Game" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
           <div className="ssr-variant hidden-tkd66p">
             <div className="vignesh-1g35wqs">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 5.jpg?v=3" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                <img decoding="async" loading="lazy" width="907" height="1221" src="/assets/img/Vignesh 5.webp?v=4" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
               </div>
             </div>
           </div>
