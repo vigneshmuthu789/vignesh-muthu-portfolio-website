@@ -46,7 +46,7 @@ export default function StencilPage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-194ysu9 framer-169f9it" id="194ysu9" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener">
+                <a className="framer-194ysu9 framer-169f9it" id="194ysu9" href="#" rel="noopener">
                   <svg className="framer-iZmZi framer-x8sp8d hidden-uolzns" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>

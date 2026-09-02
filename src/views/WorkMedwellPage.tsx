@@ -44,7 +44,7 @@ export default function WorkMedwellPage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-22fc2j framer-q9d7q0" id="22fc2j" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener" tabIndex={0}>
+                <a className="framer-22fc2j framer-q9d7q0" id="22fc2j" href="#" rel="noopener" tabIndex={0}>
                   <svg className="framer-iZmZi framer-1n0fjfd hidden-1r3riag" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>

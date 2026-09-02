@@ -46,7 +46,7 @@ export default function CognitiveTunnelingPage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-c1xwtk framer-1lghslc" id="c1xwtk" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener">
+                <a className="framer-c1xwtk framer-1lghslc" id="c1xwtk" href="#" rel="noopener">
                   <svg className="framer-iZmZi framer-nwid27 hidden-15v8hv5" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>

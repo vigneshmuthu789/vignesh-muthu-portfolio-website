@@ -43,7 +43,7 @@ export default function WorkZeptoPage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-1ckzf4h framer-wkqtdq" id="1ckzf4h" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener" tabIndex={0}>
+                <a className="framer-1ckzf4h framer-wkqtdq" id="1ckzf4h" href="#" rel="noopener" tabIndex={0}>
                   <svg className="framer-iZmZi framer-nyb0n1 hidden-1uxv7jj" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>

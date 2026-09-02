@@ -172,7 +172,7 @@ export default function Content() {
           <div className="ssr-variant">
             <div className="framer-1vrhpix" data-framer-name="IPP2 1" style={{ height: "auto", aspectRatio: "1.3630168105406633" }}>
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img loading="eager" width="12000" height="8804" sizes="(min-width: 1200px) 717px, (max-width: 1199.98px) calc(100vw - 80px)" srcSet="/assets/img/1414613e887cdb0b.webp 512w, /assets/img/346394a7c225d3f1.webp 1024w, /assets/img/bf0c77a107f0c10a.webp 2048w, https://framerusercontent.com/images/7zyrly2h7GTyVPdIDHx9rNz4AeA.png?scale-down-to=4096&width=12000&height=8804 4096w, https://framerusercontent.com/images/7zyrly2h7GTyVPdIDHx9rNz4AeA.png?width=12000&height=8804 12000w" src="https://framerusercontent.com/images/7zyrly2h7GTyVPdIDHx9rNz4AeA.png?width=12000&height=8804" alt="Procure AI Desktop Mockup 2" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} fetchPriority="high" />
+                <img loading="eager" width="12000" height="8804" sizes="(min-width: 1200px) 717px, (max-width: 1199.98px) calc(100vw - 80px)" srcSet="/assets/img/1414613e887cdb0b.webp 512w, /assets/img/346394a7c225d3f1.webp 1024w, /assets/img/bf0c77a107f0c10a.webp 2048w" src="/assets/img/bf0c77a107f0c10a.webp" alt="Procure AI Desktop Mockup 2" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} fetchPriority="high" />
               </div>
             </div>
           </div>
@@ -943,7 +943,7 @@ export default function Content() {
         <div className="ssr-variant">
           <div className="framer-nndbmt" data-framer-name="Frame 1739329338" style={{ height: "auto", aspectRatio: "0.7384615384615385" }}>
             <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-              <img decoding="async" loading="lazy" width="7680" height="10400" sizes="(min-width: 1200px) 717px, (max-width: 1199.98px) calc(100vw - 80px)" srcSet="/assets/img/479a09b51e499b26.webp 756w, /assets/img/553b6c09ff71babe.webp 1512w, /assets/img/d1cf69c2bac4a22b.webp 3024w, https://framerusercontent.com/images/wNHCYLZ5xQ0Y25nsaFqnhtk.png?width=7680&height=10400 7680w" src="https://framerusercontent.com/images/wNHCYLZ5xQ0Y25nsaFqnhtk.png?width=7680&height=10400" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+              <img decoding="async" loading="lazy" width="7680" height="10400" sizes="(min-width: 1200px) 717px, (max-width: 1199.98px) calc(100vw - 80px)" srcSet="/assets/img/479a09b51e499b26.webp 756w, /assets/img/553b6c09ff71babe.webp 1512w, /assets/img/d1cf69c2bac4a22b.webp 3024w" src="/assets/img/d1cf69c2bac4a22b.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
             </div>
           </div>
         </div>

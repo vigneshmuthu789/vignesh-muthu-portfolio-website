@@ -74,7 +74,7 @@ export default function WorkFizzlePage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-b1qs8j framer-1er50q6" id="b1qs8j" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener">
+                <a className="framer-b1qs8j framer-1er50q6" id="b1qs8j" href="#" rel="noopener">
                   <svg className="framer-iZmZi framer-yq7ovb" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>

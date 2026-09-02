@@ -31,7 +31,7 @@ export default function HomePage() {
             <div className="framer-alwif3">
               <div className="framer-seg805-container">
                 <Suspense fallback={null}>
-                  <video src="/assets/media/homepage-hero.mp4?v=2" loop preload="none" poster="/assets/img/d7199a165350a1c2.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                  <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/d7199a165350a1c2.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </Suspense>
               </div>
             </div>
@@ -56,7 +56,7 @@ export default function HomePage() {
             </div>
             <div className="framer-5r70um-container hidden-72rtr7">
               <Suspense fallback={null}>
-                <video src="/assets/media/homepage-hero.mp4?v=2" loop preload="none" poster="/assets/img/8794a4fcaa53c1be.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
+                <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/8794a4fcaa53c1be.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
               </Suspense>
             </div>
           </div>

@@ -44,7 +44,7 @@ export default function WorkProcureAiPage() {
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-1i115ts framer-vy20ph" id="1i115ts" href="https://framer.com/projects/Untitled--NaFSglVQqL1F5cuwRa71-fsY6P?node=ydnHs9VqT" rel="noopener" tabIndex={0}>
+                <a className="framer-1i115ts framer-vy20ph" id="1i115ts" href="#" rel="noopener" tabIndex={0}>
                   <svg className="framer-iZmZi framer-imsrhl hidden-16q6qgd" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>
