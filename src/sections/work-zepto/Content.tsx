@@ -1,10 +1,41 @@
-import React, { Suspense } from "react";
+"use client";
+
+import React, { Suspense, useState, useEffect } from "react";
 
 /** Generated from the vignesh section "Content".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
  *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Content() {
+  const [activeStep, setActiveStep] = useState(1);
+
+  useEffect(() => {
+    const ids = ["content 1", "content 2", "content 3", "content 4", "content 5", "content 6"];
+    const elements = ids.map((id) => document.getElementById(id)).filter(Boolean) as HTMLElement[];
+
+    if (elements.length === 0) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const stepNum = parseInt(entry.target.id.replace("content ", ""), 10);
+            if (!isNaN(stepNum)) {
+              setActiveStep(stepNum);
+            }
+          }
+        });
+      },
+      {
+        root: null,
+        rootMargin: "-30% 0px -30% 0px",
+        threshold: 0.2,
+      }
+    );
+
+    elements.forEach((el) => observer.observe(el));
+    return () => observer.disconnect();
+  }, []);
   return (
     <div className="vignesh-18oknc3" data-vignesh-name="Content">
       <div className="vignesh-1unbyey" data-vignesh-name="Intro" id="intro">
@@ -502,11 +533,11 @@ export default function Content() {
         <div className="vignesh-pg63fe" data-vignesh-name="Sticky">
           <div className="vignesh-1f2ys1e">
             <div className="ssr-variant">
-              <div className="vignesh-5okiih-container" id="content 1">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-5okiih-container" id="content 1" onClick={() => setActiveStep(1)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 1 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 1 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 1 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 1 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 1 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"01 / Inbound Capture"}
                       </span>
                     </p>
@@ -531,11 +562,11 @@ export default function Content() {
               </div>
             </div>
             <div className="ssr-variant">
-              <div className="vignesh-1mp6xxw-container" id="content 2">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-1mp6xxw-container" id="content 2" onClick={() => setActiveStep(2)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 2 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 2 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 2 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 2 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 2 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"02 / Calibrated Verification"}
                       </span>
                     </p>
@@ -560,11 +591,11 @@ export default function Content() {
               </div>
             </div>
             <div className="ssr-variant">
-              <div className="vignesh-1n012gm-container" id="content 3">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-1n012gm-container" id="content 3" onClick={() => setActiveStep(3)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 3 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 3 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 3 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 3 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 3 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"03 / Inventory Ingestion"}
                       </span>
                     </p>
@@ -589,11 +620,11 @@ export default function Content() {
               </div>
             </div>
             <div className="ssr-variant">
-              <div className="vignesh-oves9b-container" id="content 4">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-oves9b-container" id="content 4" onClick={() => setActiveStep(4)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 4 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 4 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 4 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 4 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 4 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"04 / Recipe Selection"}
                       </span>
                     </p>
@@ -618,11 +649,11 @@ export default function Content() {
               </div>
             </div>
             <div className="ssr-variant">
-              <div className="vignesh-hsji8j-container" id="content 5">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-hsji8j-container" id="content 5" onClick={() => setActiveStep(5)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 5 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 5 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 5 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 5 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 5 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"05 / Co-Active Instruction"}
                       </span>
                     </p>
@@ -647,11 +678,11 @@ export default function Content() {
               </div>
             </div>
             <div className="ssr-variant">
-              <div className="vignesh-1klf2pa-container" id="content 6">
-                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: "0.4" }}>
-                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
+              <div className="vignesh-1klf2pa-container" id="content 6" onClick={() => setActiveStep(6)} style={{ cursor: "pointer" }}>
+                <div className="vignesh-3E92k vignesh-1yvv383 vignesh-v-1jto3wc" data-border="true" data-vignesh-name="Variant 2" style={{ "--border-bottom-width": "1px", "--border-color": activeStep === 6 ? "rgba(0, 121, 231, 0.8)" : "rgba(230, 230, 230, 0.4)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", width: "100%", opacity: activeStep === 6 ? 1 : 0.35, transition: "opacity 0.3s ease, border-color 0.3s ease, transform 0.3s ease", transform: activeStep === 6 ? "translateX(4px)" : "none" }}>
+                  <div className="vignesh-1lwbao" data-vignesh-name="01 / Inbound Capture" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": activeStep === 6 ? "rgba(0, 121, 231, 1)" : "rgba(102, 102, 102, 1)", "--vignesh-paragraph-spacing": "12px", transform: "none" }}>
                     <p className="vignesh-text" style={{ "--vignesh-font-size": "16px" }}>
-                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
+                      <span className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": activeStep === 6 ? "rgba(0, 121, 231, 1)" : "var(--extracted-1w3ko1f, rgba(102, 102, 102, 1))" }}>
                         {"06 / Failsafe Ready-to-Eat"}
                       </span>
                     </p>
@@ -680,11 +711,36 @@ export default function Content() {
             <div className="vignesh-9eugst" data-vignesh-name="Warper">
               <div className="ssr-variant hidden-1g4wfox">
                 <div className="vignesh-dw1g21-container">
-                  <div className="vignesh-C6Owd vignesh-rzbsme vignesh-v-rzbsme" data-vignesh-name="1" style={{ height: "100%" }}>
+                  <div className="vignesh-C6Owd vignesh-rzbsme vignesh-v-rzbsme" data-vignesh-name={`${activeStep}`} style={{ height: "100%" }}>
                     <div className="vignesh-1o8r35" data-vignesh-name="Phone Mockup">
                       <div className="vignesh-1al0i9y" data-vignesh-name="01 Home">
                         <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                          <img width="8192" height="5696" sizes="(min-width: 1200px) calc(100vw + 264px), (max-width: 1199.98px) 100vw" srcSet="/assets/img/9bb75c2100339e50.webp 512w, /assets/img/a866bd15d9a83b64.webp 1024w, /assets/img/8aa86c9d4d28d53a.webp 2048w, /assets/img/68c2e9e0b11b7343.webp 4096w, /assets/img/b9587181ba3f31f7.webp 8192w" src="/assets/img/b9587181ba3f31f7.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
+                          {[1, 2, 3, 4, 5, 6].map((num) => (
+                            <img
+                              key={num}
+                              width="8192"
+                              height="5696"
+                              sizes="(min-width: 1200px) calc(100vw + 264px), (max-width: 1199.98px) 100vw"
+                              src={`/assets/img/zepto-mockup-${num}.webp`}
+                              alt={`Zepto Mockup Step ${num}`}
+                              style={{
+                                display: "block",
+                                width: "100%",
+                                height: "100%",
+                                borderRadius: "inherit",
+                                cornerShape: "inherit",
+                                objectPosition: "center",
+                                objectFit: "cover",
+                                position: "absolute",
+                                top: 0,
+                                left: 0,
+                                opacity: activeStep === num ? 1 : 0,
+                                transition: "opacity 0.4s ease-in-out",
+                                pointerEvents: "none"
+                              }}
+                              loading="eager"
+                            />
+                          ))}
                         </div>
                       </div>
                     </div>
@@ -693,11 +749,36 @@ export default function Content() {
               </div>
               <div className="ssr-variant hidden-1uxv7jj">
                 <div className="vignesh-dw1g21-container">
-                  <div className="vignesh-C6Owd vignesh-rzbsme vignesh-v-1bnyxmp" data-vignesh-name="S1" style={{ height: "100%" }}>
+                  <div className="vignesh-C6Owd vignesh-rzbsme vignesh-v-1bnyxmp" data-vignesh-name={`S${activeStep}`} style={{ height: "100%" }}>
                     <div className="vignesh-1o8r35" data-vignesh-name="Phone Mockup">
                       <div className="vignesh-1al0i9y" data-vignesh-name="01 Home">
                         <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
-                          <img width="8192" height="5696" sizes="(min-width: 1200px) calc(100vw + 264px), (max-width: 1199.98px) 100vw" srcSet="/assets/img/9bb75c2100339e50.webp 512w, /assets/img/a866bd15d9a83b64.webp 1024w, /assets/img/8aa86c9d4d28d53a.webp 2048w, /assets/img/68c2e9e0b11b7343.webp 4096w, /assets/img/b9587181ba3f31f7.webp 8192w" src="/assets/img/b9587181ba3f31f7.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
+                          {[1, 2, 3, 4, 5, 6].map((num) => (
+                            <img
+                              key={num}
+                              width="8192"
+                              height="5696"
+                              sizes="(min-width: 1200px) calc(100vw + 264px), (max-width: 1199.98px) 100vw"
+                              src={`/assets/img/zepto-mockup-${num}.webp`}
+                              alt={`Zepto Mockup Step ${num}`}
+                              style={{
+                                display: "block",
+                                width: "100%",
+                                height: "100%",
+                                borderRadius: "inherit",
+                                cornerShape: "inherit",
+                                objectPosition: "center",
+                                objectFit: "cover",
+                                position: "absolute",
+                                top: 0,
+                                left: 0,
+                                opacity: activeStep === num ? 1 : 0,
+                                transition: "opacity 0.4s ease-in-out",
+                                pointerEvents: "none"
+                              }}
+                              loading="eager"
+                            />
+                          ))}
                         </div>
                       </div>
                     </div>
