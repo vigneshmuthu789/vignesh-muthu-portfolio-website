@@ -6,22 +6,22 @@ import React, { Suspense } from "react";
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Frame1739329352() {
   return (
-    <div className="framer-1o7x0fs" data-border="true" data-framer-name="Frame 1739329352">
-      <div className="framer-19ksra2" data-border="true" data-framer-name="Frame 1739329341">
-        <div className="framer-372q90" data-framer-name="Frame 1739329339">
-          <div className="framer-rmgyqq" data-framer-name="At a Glance" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "28px", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+    <div className="vignesh-1o7x0fs" data-border="true" data-vignesh-name="Frame 1739329352">
+      <div className="vignesh-19ksra2" data-border="true" data-vignesh-name="Frame 1739329341">
+        <div className="vignesh-372q90" data-vignesh-name="Frame 1739329339">
+          <div className="vignesh-rmgyqq" data-vignesh-name="At a Glance" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "28px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"At a Glance"}
             </p>
           </div>
         </div>
-        <div className="framer-1cycxnv" data-framer-name="Frame 1739329343">
-          <div className="framer-8f3dv0" data-framer-name="Frame 1739329342">
-            <div className="framer-1cpq54b">
+        <div className="vignesh-1cycxnv" data-vignesh-name="Frame 1739329343">
+          <div className="vignesh-8f3dv0" data-vignesh-name="Frame 1739329342">
+            <div className="vignesh-1cpq54b">
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="framer-18vgp1y-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-yx36ok" data-framer-name="Default/ Desktop">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-18vgp1y-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-yx36ok" data-vignesh-name="Default/ Desktop">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 4" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -37,9 +37,9 @@ export default function Frame1739329352() {
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="framer-18vgp1y-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-871qgt" data-framer-name="Default/Mobile">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-18vgp1y-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-871qgt" data-vignesh-name="Default/Mobile">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 4" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -55,45 +55,45 @@ export default function Frame1739329352() {
                 </div>
               </div>
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="framer-ffp36l" data-framer-name="4+" data-framer-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "32px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+                <div className="vignesh-ffp36l" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                  <p dir="auto" style={{ "--framer-font-size": "32px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="framer-ffp36l" data-framer-name="4+" data-framer-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "24px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+                <div className="vignesh-ffp36l" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                  <p dir="auto" style={{ "--framer-font-size": "24px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
                 </div>
               </div>
             </div>
             <div className="ssr-variant hidden-1alp9q5">
-              <div className="framer-1l9ec9m" data-framer-name="Years of  Experience" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-1l9ec9m" data-vignesh-name="Years of  Experience" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Years of "}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Experience"}
                 </p>
               </div>
             </div>
             <div className="ssr-variant hidden-72rtr7">
-              <div className="framer-1l9ec9m" data-framer-name="Years of  Experience" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-1l9ec9m" data-vignesh-name="Years of  Experience" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Years of "}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Experience"}
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-16t2m76" data-framer-name="Frame 1739329343">
-            <div className="framer-1i1pm5c">
+          <div className="vignesh-16t2m76" data-vignesh-name="Frame 1739329343">
+            <div className="vignesh-1i1pm5c">
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="framer-woocje-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-yx36ok" data-framer-name="Default/ Desktop">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-woocje-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-yx36ok" data-vignesh-name="Default/ Desktop">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 12" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -109,9 +109,9 @@ export default function Frame1739329352() {
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="framer-woocje-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-871qgt" data-framer-name="Default/Mobile">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-woocje-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-871qgt" data-vignesh-name="Default/Mobile">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 12" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -127,45 +127,45 @@ export default function Frame1739329352() {
                 </div>
               </div>
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="framer-5b6z8g" data-framer-name="4+" data-framer-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "32px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+                <div className="vignesh-5b6z8g" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                  <p dir="auto" style={{ "--framer-font-size": "32px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="framer-5b6z8g" data-framer-name="4+" data-framer-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "24px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+                <div className="vignesh-5b6z8g" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                  <p dir="auto" style={{ "--framer-font-size": "24px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
                 </div>
               </div>
             </div>
             <div className="ssr-variant hidden-1alp9q5">
-              <div className="framer-tkigd1" data-framer-name="Projects  Completed" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-tkigd1" data-vignesh-name="Projects  Completed" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Projects "}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Completed"}
                 </p>
               </div>
             </div>
             <div className="ssr-variant hidden-72rtr7">
-              <div className="framer-tkigd1" data-framer-name="Projects  Completed" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-tkigd1" data-vignesh-name="Projects  Completed" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Projects "}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Completed"}
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-14xwcym" data-framer-name="Frame 1739329344">
-            <div className="framer-14587ho">
+          <div className="vignesh-14xwcym" data-vignesh-name="Frame 1739329344">
+            <div className="vignesh-14587ho">
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="framer-17v87px-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-yx36ok" data-framer-name="Default/ Desktop">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-17v87px-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-yx36ok" data-vignesh-name="Default/ Desktop">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 10" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -181,9 +181,9 @@ export default function Frame1739329352() {
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="framer-17v87px-container">
-                  <div className="framer-8A7yd framer-yx36ok framer-v-871qgt" data-framer-name="Default/Mobile">
-                    <div className="framer-160kzkb-container">
+                <div className="vignesh-17v87px-container">
+                  <div className="vignesh-8A7yd framer-yx36ok framer-v-871qgt" data-vignesh-name="Default/Mobile">
+                    <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
                         <div role="status" aria-live="polite" aria-atomic="true" aria-label="Counting from 0 to 10" style={{ fontFamily: "\"Inter\", \"Inter Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: "700", letterSpacing: "0em", lineHeight: "1em", textAlign: "left", color: "rgb(51, 51, 51)", position: "relative" }}>
                           <span aria-hidden="true">
@@ -200,19 +200,19 @@ export default function Frame1739329352() {
               </div>
             </div>
             <div className="ssr-variant hidden-1alp9q5">
-              <div className="framer-1xh6m4e" data-framer-name="Awards & Recognition" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-1xh6m4e" data-vignesh-name="Awards & Recognition" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Awards &"}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Recognition"}
                 </p>
               </div>
             </div>
             <div className="ssr-variant hidden-72rtr7">
-              <div className="framer-1xh6m4e" data-framer-name="Awards & Recognition" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+              <div className="vignesh-1xh6m4e" data-vignesh-name="Awards & Recognition" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p dir="auto" style={{ "--framer-letter-spacing": "-0.02em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Awards &"}
-                  <br className="framer-text" />
+                  <br className="vignesh-text" />
                   {"Recognition"}
                 </p>
               </div>

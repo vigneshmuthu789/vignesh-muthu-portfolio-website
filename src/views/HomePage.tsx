@@ -22,14 +22,14 @@ export default function HomePage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1alp9q5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-framer-ssr-released-at="2026-07-06T15:12:41.348Z" data-framer-page-optimized-at="2026-07-06T20:11:31.910Z" data-framer-generated-page="">
+      <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1alp9q5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.910Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
-          <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); } html { font-size: 75%; }" }} />
-          <div data-framer-root="" className="framer-c2jrW framer-72rtr7" style={{ minHeight: "100vh", width: "auto" }}>
+          <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); } html { font-size: 75%; }" }} />
+          <div data-vignesh-root="" className="vignesh-c2jrW framer-72rtr7" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329347 />
             <Frame1739329351 />
-            <div className="framer-alwif3">
-              <div className="framer-seg805-container">
+            <div className="vignesh-alwif3">
+              <div className="vignesh-seg805-container">
                 <Suspense fallback={null}>
                   <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/d7199a165350a1c2.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
                 </Suspense>
@@ -39,22 +39,22 @@ export default function HomePage() {
             <Frame1739329353 />
             <Frame1739329354 />
             <div className="ssr-variant hidden-1alp9q5">
-              <div className="framer-1dcqpfy-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-n2gets" data-framer-name="Desktop" style={{ width: "100%" }}>
+              <div className="vignesh-1dcqpfy-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
               </div>
             </div>
             <div className="ssr-variant hidden-72rtr7">
-              <div className="framer-1dcqpfy-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-msne37" data-framer-name="Mobile" style={{ width: "100%" }}>
+              <div className="vignesh-1dcqpfy-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>
               </div>
             </div>
-            <div className="framer-5r70um-container hidden-72rtr7">
+            <div className="vignesh-5r70um-container hidden-72rtr7">
               <Suspense fallback={null}>
                 <video src="/assets/media/homepage-hero.mp4?v=3" loop preload="none" poster="/assets/img/8794a4fcaa53c1be.webp" muted playsInline style={{ cursor: "auto", width: "100%", height: "100%", borderRadius: "0px", display: "block", objectFit: "cover", backgroundColor: "rgba(0, 0, 0, 0)", objectPosition: "50% 50%" }} />
               </Suspense>

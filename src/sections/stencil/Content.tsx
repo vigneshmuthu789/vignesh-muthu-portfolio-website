@@ -6,21 +6,21 @@ import React, { Suspense } from "react";
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Content() {
   return (
-    <div className="framer-b8v7ea" data-framer-name="Content">
-      <div className="framer-j0sbpo" data-framer-name="Impact">
-        <div className="framer-belrrb" data-framer-name="Details">
-          <div className="framer-1oyk828" data-framer-name="The Flight 401 Crisis" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+    <div className="vignesh-b8v7ea" data-vignesh-name="Content">
+      <div className="vignesh-j0sbpo" data-vignesh-name="Impact">
+        <div className="vignesh-belrrb" data-vignesh-name="Details">
+          <div className="vignesh-1oyk828" data-vignesh-name="The Flight 401 Crisis" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"The Problem"}
             </p>
           </div>
-          <div className="framer-1crfwf0" data-framer-name="In December 1972, Eastern Air Lines Flight 401 was descending into Miami when a minor instrument light bulb failed to illuminate. The cockpit crew, entirely consumed by figuring out why the landing gear indicator wouldn't turn on, accidentally nudged the flight controls, turning off the autopilot." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+          <div className="vignesh-1crfwf0" data-vignesh-name="In December 1972, Eastern Air Lines Flight 401 was descending into Miami when a minor instrument light bulb failed to illuminate. The cockpit crew, entirely consumed by figuring out why the landing gear indicator wouldn't turn on, accidentally nudged the flight controls, turning off the autopilot." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Found an inspirational UI card, a neat pricing chart, or a dashboard layout online? Dragging it into your design workspace historically meant screenshots, painstaking measurement, color-picking, and rebuilding layer-by-layer. This represents minutes of tedious setup work before you can begin actual layout exploration. "}
             </p>
           </div>
         </div>
-        <div className="framer-x4azz5-container">
+        <div className="vignesh-x4azz5-container">
           <Suspense fallback={null}>
             <div className="cmp-container" style={{ width: "100%", height: "auto" }}>
               <style dangerouslySetInnerHTML={{ __html: "\n    .cmp-container {\n        font-family: 'Inter', system-ui, -apple-system, sans-serif;\n        box-sizing: border-box;\n        width: 100%;\n    }\n    .cmp-grid {\n        display: grid;\n        grid-template-columns: repeat(2, 1fr);\n        gap: 16px;\n        width: 100%;\n        box-sizing: border-box;\n    }\n    .cmp-card {\n        border: 1px solid #e5e5e5;\n        background-color: #ffffff;\n        border-radius: 12px;\n        padding: 20px;\n        display: flex;\n        flex-direction: column;\n        justify-content: space-between;\n        height: 220px;\n        position: relative;\n        overflow: hidden;\n        box-sizing: border-box;\n        transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);\n        text-align: left;\n    }\n    .cmp-header {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        border-bottom: 1px solid #e5e5e580;\n        padding-bottom: 8px;\n        margin-bottom: 8px;\n        flex-shrink: 0;\n    }\n    .cmp-tag {\n        font-family: Geist, 'Roboto Mono', monospace;\n        font-size: 8px;\n        font-weight: bold;\n        letter-spacing: 0.05em;\n        text-transform: uppercase;\n        color: #666;\n    }\n    .cmp-status {\n        font-size: 8px;\n        font-family: Geist, 'Roboto Mono', monospace;\n        font-weight: bold;\n        display: flex;\n        align-items: center;\n        gap: 4px;\n    }\n    .cmp-viewport {\n        flex-grow: 1;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        position: relative;\n        overflow: hidden;\n    }\n    .cmp-desc {\n        font-size: 10px;\n        color: #666;\n        text-align: center;\n        margin-top: 8px;\n        line-height: 1.35;\n        flex-shrink: 0;\n    }\n    \n    /* Before Drawing Card Elements */\n    .cmp-ruler-x {\n        position: absolute;\n        left: 0;\n        right: 0;\n        border-top: 1px dashed #ef444460;\n        pointer-events: none;\n    }\n    .cmp-ruler-y {\n        position: absolute;\n        top: 0;\n        bottom: 0;\n        border-left: 1px dashed #ef444460;\n        pointer-events: none;\n    }\n    \n    /* Responsive stacking for Mobile screens */\n    @media (max-width: 640px) {\n        .cmp-grid {\n            grid-template-columns: 1fr !important;\n            gap: 12px !important;\n        }\n        .cmp-card {\n            height: 200px !important;\n            padding: 16px !important;\n        }\n        .cmp-desc {\n            font-size: 9px !important;\n            margin-top: 4px !important;\n        }\n    }\n" }} />
@@ -91,23 +91,23 @@ export default function Content() {
           </Suspense>
         </div>
       </div>
-      <div className="framer-ekoxv1" data-framer-name="Impact">
-        <div className="framer-9oq8mm" data-framer-name="Details">
-          <div className="framer-1gn73oe" data-framer-name="The Psychology of Attention" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+      <div className="vignesh-ekoxv1" data-vignesh-name="Impact">
+        <div className="vignesh-9oq8mm" data-vignesh-name="Details">
+          <div className="vignesh-1gn73oe" data-vignesh-name="The Psychology of Attention" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"Two Steps. That's It."}
             </p>
           </div>
-          <div className="framer-h9tibx" data-framer-name="Our visual attention is biological, not intellectual. When a user experiences sudden stress (like an anomaly warning), their cognitive bandwidth shrinks. The brain enters a defensive state, narrowing focus to what it perceives as the primary threat." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
-              <br className="framer-text trailing-break" />
+          <div className="vignesh-h9tibx" data-vignesh-name="Our visual attention is biological, not intellectual. When a user experiences sudden stress (like an anomaly warning), their cognitive bandwidth shrinks. The brain enters a defensive state, narrowing focus to what it perceives as the primary threat." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <br className="vignesh-text trailing-break" />
             </p>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Stencil bridges the gap between active code and design layers. Simply capture the element in Chrome and paste it directly on your Figma canvas. The layout arrives clean, responsive, and completely structured. "}
             </p>
           </div>
         </div>
-        <div className="framer-1jh4vut-container">
+        <div className="vignesh-1jh4vut-container">
           <Suspense fallback={null}>
             <div className="showcase-container" style={{ width: "100%", height: "auto" }}>
               <style dangerouslySetInnerHTML={{ __html: "\n    .showcase-container {\n        font-family: 'Inter', system-ui, -apple-system, sans-serif;\n        box-sizing: border-box;\n        width: 100%;\n        text-align: left;\n    }\n    .showcase-grid-top {\n        display: grid;\n        grid-template-columns: repeat(2, 1fr);\n        gap: 16px;\n        margin-bottom: 16px;\n        box-sizing: border-box;\n        width: 100%;\n    }\n    .showcase-grid-bottom {\n        width: 100%;\n        box-sizing: border-box;\n    }\n    .showcase-card {\n        border: 1px solid #e5e5e5;\n        background-color: #ffffff;\n        border-radius: 14px;\n        box-shadow: 0 8px 28px rgba(0,0,0,0.03);\n        overflow: hidden;\n        display: flex;\n        flex-direction: column;\n        justify-content: space-between;\n        box-sizing: border-box;\n        transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);\n        position: relative;\n    }\n    .showcase-card.small {\n        height: 220px;\n    }\n    .showcase-card.wide {\n        height: 260px;\n    }\n    .showcase-header {\n        background: #fafafa;\n        border-bottom: 1px solid #e5e5e5;\n        padding: 10px 16px;\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        flex-shrink: 0;\n    }\n    .showcase-dot-group {\n        display: flex;\n        gap: 5px;\n    }\n    .showcase-dot {\n        width: 7px;\n        height: 7px;\n        border-radius: 50%;\n        background: #e0e0e0;\n    }\n    .showcase-content {\n        flex: 1;\n        padding: 20px;\n        display: flex;\n        flex-direction: column;\n        position: relative;\n        overflow: hidden;\n        box-sizing: border-box;\n        justify-content: space-between;\n    }\n    .showcase-tag {\n        font-family: Geist, 'Roboto Mono', monospace;\n        font-size: 8px;\n        font-weight: bold;\n        letter-spacing: 0.05em;\n        text-transform: uppercase;\n        color: #888;\n        display: block;\n        margin-bottom: 4px;\n    }\n    \n    /* Responsive breakpoints for Mobile screens */\n    @media (max-width: 768px) {\n        .showcase-grid-top {\n            grid-template-columns: 1fr !important;\n            gap: 12px !important;\n            margin-bottom: 12px !important;\n        }\n        .showcase-card.small {\n            height: 200px !important;\n        }\n        .showcase-card.wide {\n            height: 240px !important;\n            margin-top: 12px !important;\n        }\n        .showcase-content {\n            padding: 16px !important;\n        }\n    }\n" }} />
@@ -267,130 +267,130 @@ export default function Content() {
           </Suspense>
         </div>
       </div>
-      <div className="framer-1hqq3hn" data-framer-name="Frame 1739329296">
-        <div className="framer-3r9asf" data-framer-name="Details">
-          <div className="framer-l2rhxq" data-framer-name="Interactive Lab: Breaking the Tunnel" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="framer-text">
+      <div className="vignesh-1hqq3hn" data-vignesh-name="Frame 1739329296">
+        <div className="vignesh-3r9asf" data-vignesh-name="Details">
+          <div className="vignesh-l2rhxq" data-vignesh-name="Interactive Lab: Breaking the Tunnel" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"When Things Don't Translate Perfectly"}
             </p>
           </div>
-          <div className="framer-1n82jv2" data-framer-name="Click through the modes below to experience the visual noise levels first-hand and see how design mitigates attention blindness." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="framer-text">
+          <div className="vignesh-1n82jv2" data-vignesh-name="Click through the modes below to experience the visual noise levels first-hand and see how design mitigates attention blindness." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"The web and Figma speak fundamentally different layout languages. Stencil is designed with graceful fallbacks — it handles complex code configurations without crashing or breaking your canvas structure. "}
             </p>
           </div>
         </div>
-        <div className="framer-1t0229j" data-framer-name="Frame 1739329361">
-          <div className="framer-v4qx93" data-border="true" data-framer-name="Container">
-            <div className="framer-1qar1jv" data-border="true" data-framer-name="Container">
-              <div className="framer-ejr4gn" data-framer-name="Aa" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+        <div className="vignesh-1t0229j" data-vignesh-name="Frame 1739329361">
+          <div className="vignesh-v4qx93" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-1qar1jv" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-ejr4gn" data-vignesh-name="Aa" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Aa"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-4kmq50" data-framer-name="Heading 3">
-              <div className="framer-1462oh7" data-framer-name="Font Not Installed?" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+            <div className="vignesh-4kmq50" data-vignesh-name="Heading 3">
+              <div className="vignesh-1462oh7" data-vignesh-name="Font Not Installed?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Font Not Installed?"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-14gox9x" data-framer-name="Paragraph">
-              <div className="framer-19bet8t" data-framer-name="Falls back directly to standard system fonts (like" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-14gox9x" data-vignesh-name="Paragraph">
+              <div className="vignesh-19bet8t" data-vignesh-name="Falls back directly to standard system fonts (like" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Falls back directly to standard system fonts (like Inter) so text layers land editable — rather than rendering as broken placeholder boxes. "}
                   </span>
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-7m0lp8" data-border="true" data-framer-name="Container">
-            <div className="framer-i18t0j" data-border="true" data-framer-name="Container">
-              <div className="framer-yi4ubh" data-framer-name="🖼" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+          <div className="vignesh-7m0lp8" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-i18t0j" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-yi4ubh" data-vignesh-name="🖼" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"🖼"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-1diovuk" data-framer-name="Heading 3">
-              <div className="framer-1qg03qu" data-framer-name="Image Fails to Load?" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+            <div className="vignesh-1diovuk" data-vignesh-name="Heading 3">
+              <div className="vignesh-1qg03qu" data-vignesh-name="Image Fails to Load?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Image Fails to Load?"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-1lxm1no" data-framer-name="Paragraph">
-              <div className="framer-1rqy15i" data-framer-name="Blocked, missing, or cross-origin restricted image" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-1lxm1no" data-vignesh-name="Paragraph">
+              <div className="vignesh-1rqy15i" data-vignesh-name="Blocked, missing, or cross-origin restricted image" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Blocked, missing, or cross-origin restricted images automatically resolve to a neutral placeholder frame, keeping design structure clean. "}
                   </span>
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-1bv208e" data-border="true" data-framer-name="Container">
-            <div className="framer-4xtp79" data-border="true" data-framer-name="Container">
-              <div className="framer-1qaddt7" data-framer-name="◇" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+          <div className="vignesh-1bv208e" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-4xtp79" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-1qaddt7" data-vignesh-name="◇" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"◇"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-1wo4sxf" data-framer-name="Heading 3">
-              <div className="framer-1dejvvi" data-framer-name="Icon Won't Convert?" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+            <div className="vignesh-1wo4sxf" data-vignesh-name="Heading 3">
+              <div className="vignesh-1dejvvi" data-vignesh-name="Icon Won't Convert?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Icon Won't Convert?"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-dfa5gy" data-framer-name="Paragraph">
-              <div className="framer-cda83j" data-framer-name="Extremely complex inline SVG vector paths that fai" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-dfa5gy" data-vignesh-name="Paragraph">
+              <div className="vignesh-cda83j" data-vignesh-name="Extremely complex inline SVG vector paths that fai" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Extremely complex inline SVG vector paths that fail parse sequences get represented as clean vector placeholder boxes rather than breaking compilation. "}
                   </span>
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-1klhvc3" data-border="true" data-framer-name="Container">
-            <div className="framer-ic8qcm" data-border="true" data-framer-name="Container">
-              <div className="framer-17swl6x" data-framer-name="⚡" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+          <div className="vignesh-1klhvc3" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-ic8qcm" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-17swl6x" data-vignesh-name="⚡" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"⚡"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-1fst7i1" data-framer-name="Heading 3">
-              <div className="framer-1ym81b9" data-framer-name="Layout Too Complex?" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+            <div className="vignesh-1fst7i1" data-vignesh-name="Heading 3">
+              <div className="vignesh-1ym81b9" data-vignesh-name="Layout Too Complex?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Layout Too Complex?"}
                   </span>
                 </p>
               </div>
             </div>
-            <div className="framer-1nqnk6j" data-framer-name="Paragraph">
-              <div className="framer-1ddqxl0" data-framer-name="Web-only animations, transitions, hovers, and scri" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-1nqnk6j" data-vignesh-name="Paragraph">
+              <div className="vignesh-1ddqxl0" data-vignesh-name="Web-only animations, transitions, hovers, and scri" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Web-only animations, transitions, hovers, and script elements are ignored. Stencil extracts the clean static starting point of the layout. "}
                   </span>
                 </p>
@@ -399,68 +399,68 @@ export default function Content() {
           </div>
         </div>
       </div>
-      <div className="framer-1g9ki2n" data-border="true" data-framer-name="Section">
-        <div className="framer-1vbiuag" data-framer-name="Container">
-          <div className="framer-1eyzhcx" data-framer-name="Try It Yourself" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="framer-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+      <div className="vignesh-1g9ki2n" data-border="true" data-vignesh-name="Section">
+        <div className="vignesh-1vbiuag" data-vignesh-name="Container">
+          <div className="vignesh-1eyzhcx" data-vignesh-name="Try It Yourself" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"Try It Yourself"}
               </span>
             </p>
           </div>
-          <div className="framer-87z7bl" data-framer-name="Stencil is completely free to download. Get both p" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="framer-text">
-              <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+          <div className="vignesh-87z7bl" data-vignesh-name="Stencil is completely free to download. Get both p" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                 {"Stencil is completely free to download. Get both parts — the Chrome extension files and the Figma manifest package. Extract, load, and begin syncing. "}
               </span>
             </p>
           </div>
         </div>
-        <div className="framer-yflvym" data-framer-name="Container">
-          <div className="framer-2y3pqy" data-border="true" data-framer-name="Container">
-            <div className="framer-1iwgvak" data-framer-name="Container">
-              <div className="framer-i5rgpp" data-framer-name="Text">
-                <div className="framer-m339h6" data-framer-name="Part 1 — Chrome Extension" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="framer-text">
+        <div className="vignesh-yflvym" data-vignesh-name="Container">
+          <div className="vignesh-2y3pqy" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-1iwgvak" data-vignesh-name="Container">
+              <div className="vignesh-i5rgpp" data-vignesh-name="Text">
+                <div className="vignesh-m339h6" data-vignesh-name="Part 1 — Chrome Extension" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
                       {"Part 1 — Chrome Extension"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-186g5f6" data-framer-name="Heading 3">
-                <div className="framer-93oj9v" data-framer-name="Capture Layouts" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+              <div className="vignesh-186g5f6" data-vignesh-name="Heading 3">
+                <div className="vignesh-93oj9v" data-vignesh-name="Capture Layouts" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "16px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                       {"Capture Layouts"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-3lrpv2" data-framer-name="Paragraph">
-                <div className="framer-1idmazi" data-framer-name="Hover and select any DOM node elements. Select com" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+              <div className="vignesh-3lrpv2" data-vignesh-name="Paragraph">
+                <div className="vignesh-1idmazi" data-vignesh-name="Hover and select any DOM node elements. Select com" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Hover and select any DOM node elements. Select components, analyze sizes, and sync them directly to your paste queue. "}
                     </span>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="framer-1ft82ir" data-border="true" data-framer-name="Container">
-              <div className="framer-197fzes" data-framer-name="Text">
-                <div className="framer-1utknfj" data-framer-name="v1.2 · Unpacked" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-1ft82ir" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-197fzes" data-vignesh-name="Text">
+                <div className="vignesh-1utknfj" data-vignesh-name="v1.2 · Unpacked" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"v1.2 · Unpacked"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-1uyo5qs" data-framer-name="Link">
-                <div className="framer-1xezdit" data-framer-name="Get Chrome Extension " data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+              <div className="vignesh-1uyo5qs" data-vignesh-name="Link">
+                <div className="vignesh-1xezdit" data-vignesh-name="Get Chrome Extension " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Get Chrome Extension "}
                     </span>
                   </p>
@@ -468,50 +468,50 @@ export default function Content() {
               </div>
             </div>
           </div>
-          <div className="framer-zx2dpl" data-border="true" data-framer-name="Container">
-            <div className="framer-1uts1zg" data-framer-name="Container">
-              <div className="framer-1hzlw31" data-framer-name="Text">
-                <div className="framer-1hletcz" data-framer-name="Part 2 — Figma Plugin" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="framer-text">
+          <div className="vignesh-zx2dpl" data-border="true" data-vignesh-name="Container">
+            <div className="vignesh-1uts1zg" data-vignesh-name="Container">
+              <div className="vignesh-1hzlw31" data-vignesh-name="Text">
+                <div className="vignesh-1hletcz" data-vignesh-name="Part 2 — Figma Plugin" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
                       {"Part 2 — Figma Plugin"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-f6k2lj" data-framer-name="Heading 3">
-                <div className="framer-q46rgi" data-framer-name="Render Editable Frames" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+              <div className="vignesh-f6k2lj" data-vignesh-name="Heading 3">
+                <div className="vignesh-q46rgi" data-vignesh-name="Render Editable Frames" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "16px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                       {"Render Editable Frames"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-1vqy1gu" data-framer-name="Paragraph">
-                <div className="framer-1kgunx4" data-framer-name="Access your sync queue from Figma. Paste captures " data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+              <div className="vignesh-1vqy1gu" data-vignesh-name="Paragraph">
+                <div className="vignesh-1kgunx4" data-vignesh-name="Access your sync queue from Figma. Paste captures " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Access your sync queue from Figma. Paste captures instantly as editable frames with preserved properties. "}
                     </span>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="framer-kam77e" data-border="true" data-framer-name="Container">
-              <div className="framer-1w8qlb7" data-framer-name="Text">
-                <div className="framer-155fvt3" data-framer-name="v1.2 · Developer Plugin" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+            <div className="vignesh-kam77e" data-border="true" data-vignesh-name="Container">
+              <div className="vignesh-1w8qlb7" data-vignesh-name="Text">
+                <div className="vignesh-155fvt3" data-vignesh-name="v1.2 · Developer Plugin" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"v1.2 · Developer Plugin"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-1d21yb4" data-framer-name="Link">
-                <div className="framer-1k198hv" data-framer-name="Get Figma Plugin " data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+              <div className="vignesh-1d21yb4" data-vignesh-name="Link">
+                <div className="vignesh-1k198hv" data-vignesh-name="Get Figma Plugin " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Get Figma Plugin "}
                     </span>
                   </p>
@@ -520,68 +520,68 @@ export default function Content() {
             </div>
           </div>
         </div>
-        <div className="framer-8cm1nn" data-border="true" data-framer-name="Container">
-          <div className="framer-9bp1ng" data-framer-name="Heading 4">
-            <div className="framer-15tjfzw" data-framer-name="Quick Install Guide" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="framer-text">
-                <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)", "--framer-text-transform": "uppercase" }} className="framer-text">
+        <div className="vignesh-8cm1nn" data-border="true" data-vignesh-name="Container">
+          <div className="vignesh-9bp1ng" data-vignesh-name="Heading 4">
+            <div className="vignesh-15tjfzw" data-vignesh-name="Quick Install Guide" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+              <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
                   {"Quick Install Guide"}
                 </span>
               </p>
             </div>
           </div>
-          <div className="framer-logujj" data-framer-name="Container">
-            <div className="framer-q8mql" data-framer-name="Container">
-              <div className="framer-1ehac0q" data-framer-name="Text">
-                <div className="framer-m7ouo5" data-framer-name="Chrome Browser" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="framer-text">
+          <div className="vignesh-logujj" data-vignesh-name="Container">
+            <div className="vignesh-q8mql" data-vignesh-name="Container">
+              <div className="vignesh-1ehac0q" data-vignesh-name="Text">
+                <div className="vignesh-m7ouo5" data-vignesh-name="Chrome Browser" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
                       {"Chrome Browser"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-rogw4s" data-framer-name="Numbered List">
-                <div className="framer-i7atct" data-framer-name="List Item">
-                  <div className="framer-178qxw8" data-framer-name="Unzip the archive to get the extension directory." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+              <div className="vignesh-rogw4s" data-vignesh-name="Numbered List">
+                <div className="vignesh-i7atct" data-vignesh-name="List Item">
+                  <div className="vignesh-178qxw8" data-vignesh-name="Unzip the archive to get the extension directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Unzip the archive to get the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"extension"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" directory."}
                       </span>
                     </p>
                   </div>
                 </div>
-                <div className="framer-1qvixy6" data-framer-name="List Item">
-                  <div className="framer-p02l8k" data-framer-name="Open chrome://extensions and toggle Developer Mode" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                <div className="vignesh-1qvixy6" data-vignesh-name="List Item">
+                  <div className="vignesh-p02l8k" data-vignesh-name="Open chrome://extensions and toggle Developer Mode" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Open "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"chrome://extensions"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" and toggle Developer Mode."}
                       </span>
                     </p>
                   </div>
                 </div>
-                <div className="framer-1y62gtg" data-framer-name="List Item">
-                  <div className="framer-1xijoko" data-framer-name="Click Load Unpacked and select the directory." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                <div className="vignesh-1y62gtg" data-vignesh-name="List Item">
+                  <div className="vignesh-1xijoko" data-vignesh-name="Click Load Unpacked and select the directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Click "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"Load Unpacked"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" and select the directory."}
                       </span>
                     </p>
@@ -589,51 +589,51 @@ export default function Content() {
                 </div>
               </div>
             </div>
-            <div className="framer-7267ld" data-framer-name="Container">
-              <div className="framer-j2pkaq" data-framer-name="Text">
-                <div className="framer-1bcimcr" data-framer-name="Figma Application" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="framer-text">
+            <div className="vignesh-7267ld" data-vignesh-name="Container">
+              <div className="vignesh-j2pkaq" data-vignesh-name="Text">
+                <div className="vignesh-1bcimcr" data-vignesh-name="Figma Application" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
                       {"Figma Application"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-1i0da2a" data-framer-name="Numbered List">
-                <div className="framer-1k6te8s" data-framer-name="List Item">
-                  <div className="framer-1xlauha" data-framer-name="Unzip the archive to get the figma-plugin director" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+              <div className="vignesh-1i0da2a" data-vignesh-name="Numbered List">
+                <div className="vignesh-1k6te8s" data-vignesh-name="List Item">
+                  <div className="vignesh-1xlauha" data-vignesh-name="Unzip the archive to get the figma-plugin director" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Unzip the archive to get the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"figma-plugin"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" directory."}
                       </span>
                     </p>
                   </div>
                 </div>
-                <div className="framer-19jkpzz" data-framer-name="List Item">
-                  <div className="framer-1u5fjpx" data-framer-name="Navigate to Plugins → Development → Import plugin." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                <div className="vignesh-19jkpzz" data-vignesh-name="List Item">
+                  <div className="vignesh-1u5fjpx" data-vignesh-name="Navigate to Plugins → Development → Import plugin." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Navigate to Plugins → Development → Import plugin."}
                       </span>
                     </p>
                   </div>
                 </div>
-                <div className="framer-13jwy90" data-framer-name="List Item">
-                  <div className="framer-aa2sea" data-framer-name="Select the manifest.json inside the directory." data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="framer-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                <div className="vignesh-13jwy90" data-vignesh-name="List Item">
+                  <div className="vignesh-aa2sea" data-vignesh-name="Select the manifest.json inside the directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Select the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"manifest.json"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="framer-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" inside the directory."}
                       </span>
                     </p>
@@ -644,104 +644,104 @@ export default function Content() {
           </div>
         </div>
       </div>
-      <div className="framer-y224ae" data-framer-name="Section">
-        <div className="framer-1uus6d7" data-framer-name="Heading 3">
-          <div className="framer-byo5jt" data-framer-name="Project Outcomes" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "20px", "--framer-line-height": "28px" }} className="framer-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "20px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.5px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+      <div className="vignesh-y224ae" data-vignesh-name="Section">
+        <div className="vignesh-1uus6d7" data-vignesh-name="Heading 3">
+          <div className="vignesh-byo5jt" data-vignesh-name="Project Outcomes" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+            <p style={{ "--framer-font-size": "20px", "--framer-line-height": "28px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "20px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.5px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                 {"Project Outcomes"}
               </span>
             </p>
           </div>
         </div>
-        <div className="framer-1ap8h5k" data-framer-name="Container">
-          <div className="framer-1odthmg" data-framer-name="Container">
-            <div className="framer-11qxi1" data-framer-name="Container">
-              <div className="framer-af0sqw" data-framer-name="Text">
-                <div className="framer-1ghjz5c" data-framer-name="schedule" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="framer-text">
+        <div className="vignesh-1ap8h5k" data-vignesh-name="Container">
+          <div className="vignesh-1odthmg" data-vignesh-name="Container">
+            <div className="vignesh-11qxi1" data-vignesh-name="Container">
+              <div className="vignesh-af0sqw" data-vignesh-name="Text">
+                <div className="vignesh-1ghjz5c" data-vignesh-name="schedule" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"schedule"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-8p2ln5" data-framer-name="Heading 4">
-                <div className="framer-vzcm22" data-framer-name="Time Optimization" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+              <div className="vignesh-8p2ln5" data-vignesh-name="Heading 4">
+                <div className="vignesh-vzcm22" data-vignesh-name="Time Optimization" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Time Optimization"}
                     </span>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="framer-gbn5fb" data-framer-name="Paragraph">
-              <div className="framer-15c60d" data-framer-name="Average setup time per component dropped from 2 mi" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="framer-text">
+            <div className="vignesh-gbn5fb" data-vignesh-name="Paragraph">
+              <div className="vignesh-15c60d" data-vignesh-name="Average setup time per component dropped from 2 mi" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Average setup time per component dropped from 2 minutes to under 2 seconds. Designers skip pixel measurements completely. "}
                   </span>
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-f2b56t" data-framer-name="Container">
-            <div className="framer-8l5kfh" data-framer-name="Container">
-              <div className="framer-1yz12v5" data-framer-name="Text">
-                <div className="framer-x8fy6l" data-framer-name="layers" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="framer-text">
+          <div className="vignesh-f2b56t" data-vignesh-name="Container">
+            <div className="vignesh-8l5kfh" data-vignesh-name="Container">
+              <div className="vignesh-1yz12v5" data-vignesh-name="Text">
+                <div className="vignesh-x8fy6l" data-vignesh-name="layers" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"layers"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-17tmtph" data-framer-name="Heading 4">
-                <div className="framer-7zxoo3" data-framer-name="Precision Fidelity" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+              <div className="vignesh-17tmtph" data-vignesh-name="Heading 4">
+                <div className="vignesh-7zxoo3" data-vignesh-name="Precision Fidelity" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Precision Fidelity"}
                     </span>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="framer-shnhpj" data-framer-name="Paragraph">
-              <div className="framer-4x2zcj" data-framer-name="All text elements, margins, paddings, backgrounds," data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="framer-text">
+            <div className="vignesh-shnhpj" data-vignesh-name="Paragraph">
+              <div className="vignesh-4x2zcj" data-vignesh-name="All text elements, margins, paddings, backgrounds," data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"All text elements, margins, paddings, backgrounds, and auto-layouts carry over to Figma with 100% vector accuracy. "}
                   </span>
                 </p>
               </div>
             </div>
           </div>
-          <div className="framer-93223s" data-framer-name="Container">
-            <div className="framer-nnaihi" data-framer-name="Container">
-              <div className="framer-1f6s7hn" data-framer-name="Text">
-                <div className="framer-urt6h2" data-framer-name="sync_alt" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="framer-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="framer-text">
+          <div className="vignesh-93223s" data-vignesh-name="Container">
+            <div className="vignesh-nnaihi" data-vignesh-name="Container">
+              <div className="vignesh-1f6s7hn" data-vignesh-name="Text">
+                <div className="vignesh-urt6h2" data-vignesh-name="sync_alt" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"sync_alt"}
                     </span>
                   </p>
                 </div>
               </div>
-              <div className="framer-1gshsy9" data-framer-name="Heading 4">
-                <div className="framer-15uhncq" data-framer-name="Seamless Flow" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="framer-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="framer-text">
+              <div className="vignesh-1gshsy9" data-vignesh-name="Heading 4">
+                <div className="vignesh-15uhncq" data-vignesh-name="Seamless Flow" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Seamless Flow"}
                     </span>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="framer-16h1aw7" data-framer-name="Paragraph">
-              <div className="framer-14r5p76" data-framer-name="Drastically reduced switching overhead. Capture in" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="framer-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="framer-text">
+            <div className="vignesh-16h1aw7" data-vignesh-name="Paragraph">
+              <div className="vignesh-14r5p76" data-vignesh-name="Drastically reduced switching overhead. Capture in" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Drastically reduced switching overhead. Capture inspiration directly in the browser and drop it onto the canvas instantly. "}
                   </span>
                 </p>

@@ -20,62 +20,62 @@ export default function WorkProcureAiPage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"VWk77liq_\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"16q6qgd\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1af4ja5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-framer-ssr-released-at="2026-07-06T15:12:41.348Z" data-framer-page-optimized-at="2026-07-06T20:11:31.890Z" data-framer-generated-page="">
+      <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"VWk77liq_\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"16q6qgd\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1af4ja5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.890Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
-          <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-framer-root="" className="framer-HWFeS framer-16q6qgd" style={{ minHeight: "100vh", width: "auto" }}>
+          <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
+          <div data-vignesh-root="" className="vignesh-HWFeS framer-16q6qgd" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329357 />
-            <div className="framer-ir4uqx hidden-16q6qgd">
+            <div className="vignesh-ir4uqx hidden-16q6qgd">
               <Suspense fallback={null}>
-                <a className="framer-12vtanp hidden-16q6qgd framer-vy20ph" data-framer-name="Frame 2606774" href="../work">
-                  <div data-framer-component-type="SVG" data-framer-name="ArrowBendUpLeft" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="framer-akwtvk" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0", backgroundSize: "100% 100%", backgroundImage: "url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 16 16%22><path d=%22M 13.875 12.519 C 13.875 12.641 13.826 12.759 13.739 12.845 C 13.653 12.932 13.535 12.98 13.413 12.98 C 13.291 12.98 13.173 12.932 13.087 12.845 C 13 12.759 12.951 12.641 12.951 12.519 C 12.95 11.173 12.415 9.882 11.463 8.931 C 10.511 7.979 9.221 7.443 7.875 7.442 L 3.45 7.442 L 5.432 9.423 C 5.519 9.51 5.567 9.627 5.567 9.75 C 5.567 9.872 5.519 9.99 5.432 10.076 C 5.345 10.163 5.228 10.211 5.106 10.211 C 4.983 10.211 4.866 10.163 4.779 10.076 L 2.01 7.307 C 1.967 7.264 1.933 7.213 1.91 7.157 C 1.886 7.101 1.875 7.041 1.875 6.98 C 1.875 6.92 1.886 6.86 1.91 6.804 C 1.933 6.748 1.967 6.697 2.01 6.654 L 4.779 3.885 C 4.866 3.798 4.983 3.75 5.106 3.75 C 5.228 3.75 5.345 3.798 5.432 3.885 C 5.519 3.971 5.567 4.089 5.567 4.211 C 5.567 4.334 5.519 4.451 5.432 4.538 L 3.45 6.519 L 7.875 6.519 C 9.465 6.521 10.991 7.153 12.115 8.278 C 13.24 9.403 13.873 10.928 13.875 12.519 Z%22 fill=%22rgb(11,61,145)%22></path></svg>')" }} />
-                  <div className="framer-ym9es7" data-framer-name="Back" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--framer-font-size": "12px", "--framer-text-color": "rgb(11, 61, 145)" }} className="framer-text">
+                <a className="vignesh-12vtanp hidden-16q6qgd framer-vy20ph" data-vignesh-name="Frame 2606774" href="../work">
+                  <div data-vignesh-component-type="SVG" data-vignesh-name="ArrowBendUpLeft" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="vignesh-akwtvk" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0", backgroundSize: "100% 100%", backgroundImage: "url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 16 16%22><path d=%22M 13.875 12.519 C 13.875 12.641 13.826 12.759 13.739 12.845 C 13.653 12.932 13.535 12.98 13.413 12.98 C 13.291 12.98 13.173 12.932 13.087 12.845 C 13 12.759 12.951 12.641 12.951 12.519 C 12.95 11.173 12.415 9.882 11.463 8.931 C 10.511 7.979 9.221 7.443 7.875 7.442 L 3.45 7.442 L 5.432 9.423 C 5.519 9.51 5.567 9.627 5.567 9.75 C 5.567 9.872 5.519 9.99 5.432 10.076 C 5.345 10.163 5.228 10.211 5.106 10.211 C 4.983 10.211 4.866 10.163 4.779 10.076 L 2.01 7.307 C 1.967 7.264 1.933 7.213 1.91 7.157 C 1.886 7.101 1.875 7.041 1.875 6.98 C 1.875 6.92 1.886 6.86 1.91 6.804 C 1.933 6.748 1.967 6.697 2.01 6.654 L 4.779 3.885 C 4.866 3.798 4.983 3.75 5.106 3.75 C 5.228 3.75 5.345 3.798 5.432 3.885 C 5.519 3.971 5.567 4.089 5.567 4.211 C 5.567 4.334 5.519 4.451 5.432 4.538 L 3.45 6.519 L 7.875 6.519 C 9.465 6.521 10.991 7.153 12.115 8.278 C 13.24 9.403 13.873 10.928 13.875 12.519 Z%22 fill=%22rgb(11,61,145)%22></path></svg>')" }} />
+                  <div className="vignesh-ym9es7" data-vignesh-name="Back" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                    <p dir="auto" style={{ "--framer-font-size": "12px", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
                       {"Back"}
                     </p>
                   </div>
                 </a>
               </Suspense>
-              <div className="framer-1fst34y">
-                <div className="framer-iym5cq hidden-16q6qgd" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-line-height": "32px", "--framer-text-color": "rgb(11, 61, 145)" }} className="framer-text">
+              <div className="vignesh-1fst34y">
+                <div className="vignesh-iym5cq hidden-16q6qgd" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-line-height": "32px", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
                     {"Procure AI"}
                   </p>
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="framer-1i115ts framer-vy20ph" id="1i115ts" href="#" rel="noopener" tabIndex={0}>
-                  <svg className="framer-iZmZi framer-imsrhl hidden-16q6qgd" role="presentation" viewBox="0 0 24 24">
+                <a className="vignesh-1i115ts framer-vy20ph" id="1i115ts" href="#" rel="noopener" tabIndex={0}>
+                  <svg className="vignesh-iZmZi framer-imsrhl hidden-16q6qgd" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>
                 </a>
               </Suspense>
             </div>
-            <div className="framer-c0vewu" data-framer-name="Rectangle 3">
-              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+            <div className="vignesh-c0vewu" data-vignesh-name="Rectangle 3">
+              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
                 <img width="4096" height="2731" sizes="(min-width: 1200px) 100vw, (max-width: 1199.98px) 100vw" srcSet="/assets/img/387ce1dbd5f651ca.webp 512w, /assets/img/111a3a292d1bd0f9.webp 1024w, /assets/img/316fc0cfaca51dc8.webp 2048w, /assets/img/0117bcddda115333.webp 4096w" src="/assets/img/0117bcddda115333.webp" alt="Procure AI Desktop Mockup 1" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
               </div>
             </div>
-            <div className="framer-17s3uv7">
+            <div className="vignesh-17s3uv7">
               <Suspense fallback={null}>
-                <div className="framer-1b6p1zs-container hidden-1af4ja5">
+                <div className="vignesh-1b6p1zs-container hidden-1af4ja5">
                   <Variant1 />
                 </div>
               </Suspense>
               <Content />
-              <div className="framer-2a04c2 hidden-1af4ja5" data-framer-name="Table of Content" />
+              <div className="vignesh-2a04c2 hidden-1af4ja5" data-vignesh-name="Table of Content" />
             </div>
             <div className="ssr-variant hidden-1af4ja5">
-              <div className="framer-1k2qb5o-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-n2gets" data-framer-name="Desktop" style={{ width: "100%" }}>
+              <div className="vignesh-1k2qb5o-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
               </div>
             </div>
             <div className="ssr-variant hidden-16q6qgd">
-              <div className="framer-1k2qb5o-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-msne37" data-framer-name="Mobile" style={{ width: "100%" }}>
+              <div className="vignesh-1k2qb5o-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>

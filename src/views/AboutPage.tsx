@@ -22,26 +22,26 @@ export default function AboutPage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"Ou_L4nAe2\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"tkd66p\",\"mediaQuery\":\"(min-width: 1440px)\"},{\"hash\":\"cmstll\",\"mediaQuery\":\"(max-width: 1439.98px)\"}]}"} data-framer-ssr-released-at="2026-07-06T15:12:41.348Z" data-framer-page-optimized-at="2026-07-06T20:11:31.823Z" data-framer-generated-page="">
+      <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"Ou_L4nAe2\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"tkd66p\",\"mediaQuery\":\"(min-width: 1440px)\"},{\"hash\":\"cmstll\",\"mediaQuery\":\"(max-width: 1439.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.823Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
-          <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-framer-root="" className="framer-etTfJ framer-tkd66p" style={{ minHeight: "100vh", width: "auto" }}>
+          <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
+          <div data-vignesh-root="" className="vignesh-etTfJ framer-tkd66p" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329347 />
             <Frame1739329351 />
             <Frame1739329352 />
             <Frame17393293522 />
             <Frame17393293523 />
             <div className="ssr-variant hidden-cmstll">
-              <div className="framer-ys1aek-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-n2gets" data-framer-name="Desktop" style={{ width: "100%" }}>
+              <div className="vignesh-ys1aek-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
               </div>
             </div>
             <div className="ssr-variant hidden-tkd66p">
-              <div className="framer-ys1aek-container">
-                <div className="framer-PPNtr framer-n2gets framer-v-msne37" data-framer-name="Mobile" style={{ width: "100%" }}>
+              <div className="vignesh-ys1aek-container">
+                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>
