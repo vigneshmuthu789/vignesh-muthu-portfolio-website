@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 
 
-/** The "/404" page, composed from its Framer sections.
+/** The "/404" page, composed from its vignesh sections.
  *
  *  Rendered to static HTML by scripts/prerender.mts at build time — never
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
@@ -17,7 +17,7 @@ export default function Section404Page() {
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"FVuLWMDBd\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"k5uwb6\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"tkd17c\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.361Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
           <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-vignesh-root="" className="vignesh-t7eg7 framer-k5uwb6" style={{ minHeight: "100vh", width: "auto" }}>
+          <div data-vignesh-root="" className="vignesh-t7eg7 vignesh-k5uwb6" style={{ minHeight: "100vh", width: "auto" }}>
             <div className="vignesh-jejrq7-container">
               <Suspense fallback={null}>
                 <div className="err-container" style={{ width: "100%", height: "auto" }}>

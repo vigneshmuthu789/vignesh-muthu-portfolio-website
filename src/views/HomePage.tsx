@@ -9,7 +9,7 @@ import Frame1739329356 from "@/src/sections/home/Frame1739329356";
 import Frame17393293552 from "@/src/sections/home/Frame17393293552";
 import Frame17393293562 from "@/src/sections/home/Frame17393293562";
 
-/** The "/" page, composed from its Framer sections.
+/** The "/" page, composed from its vignesh sections.
  *
  *  Rendered to static HTML by scripts/prerender.mts at build time — never
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
@@ -25,7 +25,7 @@ export default function HomePage() {
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1alp9q5\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.910Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
           <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); } html { font-size: 75%; }" }} />
-          <div data-vignesh-root="" className="vignesh-c2jrW framer-72rtr7" style={{ minHeight: "100vh", width: "auto" }}>
+          <div data-vignesh-root="" className="vignesh-c2jrW vignesh-72rtr7" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329347 />
             <Frame1739329351 />
             <div className="vignesh-alwif3">
@@ -40,7 +40,7 @@ export default function HomePage() {
             <Frame1739329354 />
             <div className="ssr-variant hidden-1alp9q5">
               <div className="vignesh-1dcqpfy-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
@@ -48,7 +48,7 @@ export default function HomePage() {
             </div>
             <div className="ssr-variant hidden-72rtr7">
               <div className="vignesh-1dcqpfy-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>

@@ -7,7 +7,7 @@ import Frame17393293552 from "@/src/sections/work/Frame17393293552";
 import Frame17393293562 from "@/src/sections/work/Frame17393293562";
 import Frame17393293472 from "@/src/sections/work/Frame17393293472";
 
-/** The "/work" page, composed from its Framer sections.
+/** The "/work" page, composed from its vignesh sections.
  *
  *  Rendered to static HTML by scripts/prerender.mts at build time — never
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
@@ -23,19 +23,19 @@ export default function WorkPage() {
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"yqAXqFfiI\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"nmk8z8\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1gg2jkq\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.869Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
           <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-vignesh-root="" className="vignesh-vNgk8 framer-nmk8z8" style={{ minHeight: "100vh", width: "auto" }}>
+          <div data-vignesh-root="" className="vignesh-vNgk8 vignesh-nmk8z8" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329347 />
             <div className="vignesh-14wlga1" data-border="true" data-vignesh-name="Frame 1739329352">
               <div className="vignesh-17pmew8" data-border="true" data-vignesh-name="Frame 1739329341">
                 <div className="vignesh-h8cccy" data-vignesh-name="Frame 1739329339">
                   <div className="vignesh-16ptaqu" data-vignesh-name="Work" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "28px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "28px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                       {"Work"}
                     </p>
                   </div>
                 </div>
                 <div className="vignesh-1mbv12i" data-vignesh-name="Some projects I've shipped ranging between brand and product." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "14px", "--framer-letter-spacing": "0.27px", "--framer-line-height": "20px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0.27px", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Some projects I've shipped ranging between brand and product."}
                   </p>
                 </div>
@@ -44,7 +44,7 @@ export default function WorkPage() {
             <Frame1739329353 />
             <div className="ssr-variant hidden-1gg2jkq">
               <div className="vignesh-1c0c2x7-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
@@ -52,7 +52,7 @@ export default function WorkPage() {
             </div>
             <div className="ssr-variant hidden-nmk8z8">
               <div className="vignesh-1c0c2x7-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>

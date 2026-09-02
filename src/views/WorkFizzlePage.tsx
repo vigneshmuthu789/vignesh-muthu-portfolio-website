@@ -7,7 +7,7 @@ import Frame1739329356 from "@/src/sections/work-fizzle/Frame1739329356";
 import Frame17393293552 from "@/src/sections/work-fizzle/Frame17393293552";
 import Frame17393293562 from "@/src/sections/work-fizzle/Frame17393293562";
 
-/** The "/work/fizzle" page, composed from its Framer sections.
+/** The "/work/fizzle" page, composed from its vignesh sections.
  *
  *  Rendered to static HTML by scripts/prerender.mts at build time — never
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
@@ -23,7 +23,7 @@ export default function WorkFizzlePage() {
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"WHxQTQ3dh\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"vpks58\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"vh5ito\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:11:31.844Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
           <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-vignesh-root="" className="vignesh-dU9WF framer-vpks58" style={{ minHeight: "100vh", width: "auto" }}>
+          <div data-vignesh-root="" className="vignesh-dU9WF vignesh-vpks58" style={{ minHeight: "100vh", width: "auto" }}>
             <Frame1739329357 />
             <div className="vignesh-4ywjxy" data-vignesh-name="Rectangle 3">
               <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-vignesh-background-image-wrapper="true">
@@ -41,7 +41,7 @@ export default function WorkFizzlePage() {
             </div>
             <div className="ssr-variant hidden-vh5ito">
               <div className="vignesh-1ivevgs-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
@@ -49,7 +49,7 @@ export default function WorkFizzlePage() {
             </div>
             <div className="ssr-variant hidden-vpks58">
               <div className="vignesh-1ivevgs-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>
@@ -57,10 +57,10 @@ export default function WorkFizzlePage() {
             </div>
             <div className="vignesh-tpbud2 hidden-vpks58">
               <Suspense fallback={null}>
-                <a className="vignesh-26cwsu framer-1er50q6" data-vignesh-name="Frame 2606774" href="../work">
+                <a className="vignesh-26cwsu vignesh-1er50q6" data-vignesh-name="Frame 2606774" href="../work">
                   <div data-vignesh-component-type="SVG" data-vignesh-name="ArrowBendUpLeft" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="vignesh-1j58y6z" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0", backgroundSize: "100% 100%", backgroundImage: "url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 16 16%22><path d=%22M 13.875 12.519 C 13.875 12.641 13.826 12.759 13.739 12.845 C 13.653 12.932 13.535 12.98 13.413 12.98 C 13.291 12.98 13.173 12.932 13.087 12.845 C 13 12.759 12.951 12.641 12.951 12.519 C 12.95 11.173 12.415 9.882 11.463 8.931 C 10.511 7.979 9.221 7.443 7.875 7.442 L 3.45 7.442 L 5.432 9.423 C 5.519 9.51 5.567 9.627 5.567 9.75 C 5.567 9.872 5.519 9.99 5.432 10.076 C 5.345 10.163 5.228 10.211 5.106 10.211 C 4.983 10.211 4.866 10.163 4.779 10.076 L 2.01 7.307 C 1.967 7.264 1.933 7.213 1.91 7.157 C 1.886 7.101 1.875 7.041 1.875 6.98 C 1.875 6.92 1.886 6.86 1.91 6.804 C 1.933 6.748 1.967 6.697 2.01 6.654 L 4.779 3.885 C 4.866 3.798 4.983 3.75 5.106 3.75 C 5.228 3.75 5.345 3.798 5.432 3.885 C 5.519 3.971 5.567 4.089 5.567 4.211 C 5.567 4.334 5.519 4.451 5.432 4.538 L 3.45 6.519 L 7.875 6.519 C 9.465 6.521 10.991 7.153 12.115 8.278 C 13.24 9.403 13.873 10.928 13.875 12.519 Z%22 fill=%22rgb(11,61,145)%22></path></svg>')" }} />
                   <div className="vignesh-ajaux9" data-vignesh-name="Back" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--framer-font-size": "12px", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--vignesh-font-size": "12px", "--vignesh-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
                       {"Back"}
                     </p>
                   </div>
@@ -68,14 +68,14 @@ export default function WorkFizzlePage() {
               </Suspense>
               <div className="vignesh-dcmawz">
                 <div className="vignesh-1pyx5e6" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-line-height": "32px", "--framer-text-color": "rgb(77, 112, 255)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(77, 112, 255)" }} className="vignesh-text">
                     {"Fizzle"}
                   </p>
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="vignesh-b1qs8j framer-1er50q6" id="b1qs8j" href="#" rel="noopener">
-                  <svg className="vignesh-iZmZi framer-yq7ovb" role="presentation" viewBox="0 0 24 24">
+                <a className="vignesh-b1qs8j vignesh-1er50q6" id="b1qs8j" href="#" rel="noopener">
+                  <svg className="vignesh-iZmZi vignesh-yq7ovb" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>
                 </a>

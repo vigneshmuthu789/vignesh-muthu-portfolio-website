@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Hero Section".
+/** Generated from the vignesh section "Hero Section".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function HeroSection() {
   return (
@@ -25,21 +25,21 @@ export default function HeroSection() {
       <div className="vignesh-10vc5we">
         <div className="vignesh-13ee69g" data-vignesh-name="Container">
           <div className="vignesh-1lal370" data-vignesh-name="Efficiency!" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "36px", "--framer-line-height": "40px", "--framer-text-alignment": "center" }} className="vignesh-text">
-              <span style={{ "--font-selector": "R0Y7Q2F2ZWF0LXJlZ3VsYXI=", "--framer-font-family": "\"Caveat\"", "--framer-font-size": "36px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(115, 115, 115, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "36px", "--vignesh-line-height": "40px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+              <span style={{ "--font-selector": "R0Y7Q2F2ZWF0LXJlZ3VsYXI=", "--vignesh-font-family": "\"Caveat\"", "--vignesh-font-size": "36px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(115, 115, 115, 1)" }} className="vignesh-text">
                 {"Efficiency!"}
               </span>
             </p>
           </div>
           <div className="vignesh-1fp42ke" data-vignesh-name="Stop Redrawing Web Layouts in Figma " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "48px", "--framer-line-height": "48px", "--framer-text-alignment": "center" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItRXh0cmFCb2xk", "--framer-font-family": "\"Inter-ExtraBold\", \"Inter\", sans-serif", "--framer-font-size": "48px", "--framer-font-weight": "800", "--framer-letter-spacing": "-1.2px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "48px", "--vignesh-line-height": "48px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItRXh0cmFCb2xk", "--vignesh-font-family": "\"Inter-ExtraBold\", \"Inter\", sans-serif", "--vignesh-font-size": "48px", "--vignesh-font-weight": "800", "--vignesh-letter-spacing": "-1.2px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"Stop Redrawing Web Layouts in Figma "}
               </span>
             </p>
           </div>
           <div className="vignesh-knu3vy" data-vignesh-name="Stencil captures any component from the browser an" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "0px", "--framer-line-height": "24px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "0px", "--vignesh-line-height": "24px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"A deep dive into moving from pixel-pushing to systems-thinking using dynamic stencils and scalable architectural patterns."}
             </p>
           </div>

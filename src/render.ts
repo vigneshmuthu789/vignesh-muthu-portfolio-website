@@ -1,4 +1,4 @@
-// Renders one page to the exact HTML Framer published.
+// Renders one page to the exact HTML vignesh published.
 //
 // Shared by two callers:
 //   scripts/prerender.mts  — at build time, writing .rendered/*.html
@@ -56,7 +56,7 @@ const SITE_ORIGIN = (() => {
   }
 })();
 
-/** One page component -> the complete HTML document Framer would have served. */
+/** One page component -> the complete HTML document vignesh would have served. */
 export async function renderPage(page: Page, Component: ComponentType): Promise<string> {
   // Both imports are dynamic on purpose: NODE_ENV decides which build of react
   // AND react-dom is loaded, and a static import would be hoisted above the
@@ -69,10 +69,10 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
   let body = renderToString(createElement(Component));
 
   // Anything React emitted BEFORE <body> is its own hoisted output, not ours:
-  // every <link>/<meta>/<script> of Framer's was parked verbatim, and React 19
+  // every <link>/<meta>/<script> of vignesh's was parked verbatim, and React 19
   // additionally invents <link rel="preload" as="image"> for images it sees
   // with fetchPriority="high". Useful in a React app, but here it is a tag
-  // Framer never wrote, sitting outside the document's <head>.
+  // vignesh never wrote, sitting outside the document's <head>.
   const bodyStart = body.indexOf("<body");
   if (bodyStart > 0) body = body.slice(bodyStart);
 
@@ -82,7 +82,7 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
   });
 
   // React inserts <!-- --> between adjacent text nodes so IT can hydrate them
-  // later. Nothing here hydrates through React — Framer's own runtime adopts
+  // later. Nothing here hydrates through React — vignesh's own runtime adopts
   // this DOM — so the separators are dead weight, and the last remaining
   // difference from the original bytes.
   body = body.replace(/<!-- -->/g, "");

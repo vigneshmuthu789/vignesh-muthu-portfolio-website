@@ -1,25 +1,25 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Content".
+/** Generated from the vignesh section "Content".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Content() {
   return (
     <div className="vignesh-1wwf4gt" data-border="true" data-vignesh-name="Content">
       <div className="vignesh-zwg6x4" data-border="true" data-vignesh-name="Intro">
         <div className="vignesh-1c4sv6t" data-vignesh-name="Intelligent Procurement Platform" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
             {"Transparent International Medical Travel"}
           </p>
         </div>
         <div className="vignesh-140fjys" data-vignesh-name="Procure AI" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "56px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "56px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
             {"Medwell"}
           </p>
         </div>
         <div className="vignesh-riv0i8" data-vignesh-name="AI‑driven platform that surfaces actionable negotiation strategies and automates RFQ‑to‑award tasks." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
             {"Simplifying medical travel, empowering patient choice."}
           </p>
         </div>
@@ -27,24 +27,24 @@ export default function Content() {
       <div className="vignesh-1sgcszo" data-vignesh-name="Tl;DR" id="tldr">
         <div className="vignesh-19xa81v" data-vignesh-name="Timeline">
           <div className="vignesh-dktxuu" data-vignesh-name="Timeline" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "14px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "14px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Timeline"}
             </p>
           </div>
           <div className="vignesh-1q5tdc8" data-vignesh-name="6 Months" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"6 Months"}
             </p>
           </div>
         </div>
         <div className="vignesh-1w9s4xw" data-vignesh-name="Role">
           <div className="vignesh-1ve2b4" data-vignesh-name="Role" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "14px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "14px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Role"}
             </p>
           </div>
           <div className="vignesh-1ha0dz2" data-vignesh-name="Lead UX — research, interaction design, prototyping, validation, handoff for the end‑to‑end Procurement experience." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"UX — research, interaction design, prototyping, validation, handoff for the end‑to‑end FMEA experience."}
             </p>
           </div>
@@ -52,18 +52,18 @@ export default function Content() {
         <div className="vignesh-177e8x4" data-vignesh-name="Others">
           <div className="vignesh-vo98no" data-vignesh-name="Role">
             <div className="vignesh-1w80s3s" data-vignesh-name="Tools" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "14px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "14px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
                 {"Tools"}
               </p>
             </div>
             <div className="vignesh-1j1jq7j" data-vignesh-name="Micro Figma After effects" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"Balsamiq"}
               </p>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"Figma"}
               </p>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"After effects"}
               </p>
             </div>
@@ -73,12 +73,12 @@ export default function Content() {
       <div className="vignesh-hg8b56" data-vignesh-name="Impact" id="my-impact">
         <div className="vignesh-dao5zu" data-vignesh-name="Details">
           <div className="vignesh-xrdzw9" data-vignesh-name="My Impact" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"My Impact"}
             </p>
           </div>
           <div className="vignesh-ndg9c5" data-vignesh-name="Transformed Procure AI from a complex procurement tool into a guided, human‑centered platform — reducing prep time, clarifying workflows, and empowering confident negotiations" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
               {"Turn fragmented medical travel into seamless clarity — measured in transparent pricing, unified logistics, and trusted care connections. This positions Medwell as a driver of confidence and resilience in international healthcare journeys."}
             </p>
           </div>
@@ -87,8 +87,8 @@ export default function Content() {
           <div className="vignesh-1ktx6nt" data-vignesh-name="01">
             <div className="ssr-variant hidden-150lssj">
               <div className="vignesh-gz4mf0" data-vignesh-name="71%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "32px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "48px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "32px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
                     {"45"}
                   </span>
                   {"%"}
@@ -97,8 +97,8 @@ export default function Content() {
             </div>
             <div className="ssr-variant hidden-1r3riag">
               <div className="vignesh-gz4mf0" data-vignesh-name="71%" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "32px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "32px" }} className="vignesh-text">
                     {"45"}
                   </span>
                   {"%"}
@@ -106,7 +106,7 @@ export default function Content() {
               </div>
             </div>
             <div className="vignesh-7i8q0c" data-vignesh-name="Workflow Clarity" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Reduction in Hidden Costs"}
               </p>
             </div>
@@ -114,8 +114,8 @@ export default function Content() {
           <div className="vignesh-f2o55s" data-vignesh-name="02">
             <div className="ssr-variant hidden-150lssj">
               <div className="vignesh-1jllnz2" data-vignesh-name="58%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "32px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "48px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "32px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
                     {"4"}
                   </span>
                   {"x"}
@@ -124,8 +124,8 @@ export default function Content() {
             </div>
             <div className="ssr-variant hidden-1r3riag">
               <div className="vignesh-1jllnz2" data-vignesh-name="58%" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "32px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "32px" }} className="vignesh-text">
                     {"4"}
                   </span>
                   {"x"}
@@ -133,7 +133,7 @@ export default function Content() {
               </div>
             </div>
             <div className="vignesh-1hell8m" data-vignesh-name="Prep Time Reduction" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Continuity of Care Across Borders"}
               </p>
             </div>
@@ -141,8 +141,8 @@ export default function Content() {
           <div className="vignesh-1sg767l" data-vignesh-name="03">
             <div className="ssr-variant hidden-150lssj">
               <div className="vignesh-ub6q4o" data-vignesh-name="12%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "32px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "48px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "32px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
                     {"70"}
                   </span>
                   {"%"}
@@ -151,8 +151,8 @@ export default function Content() {
             </div>
             <div className="ssr-variant hidden-1r3riag">
               <div className="vignesh-ub6q4o" data-vignesh-name="12%" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-alignment": "center", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                  <span style={{ "--framer-font-size": "32px" }} className="vignesh-text">
+                <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <span style={{ "--vignesh-font-size": "32px" }} className="vignesh-text">
                     {"70"}
                   </span>
                   {"%"}
@@ -160,7 +160,7 @@ export default function Content() {
               </div>
             </div>
             <div className="vignesh-1u57jp0" data-vignesh-name="Savings Identification" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Increase in Patient Confidence Identification"}
               </p>
             </div>
@@ -196,24 +196,24 @@ export default function Content() {
       </div>
       <div className="vignesh-3ss22y" data-vignesh-name="Context" id="context">
         <div className="vignesh-u3m1h0" data-vignesh-name="Context" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
             {"Context"}
           </p>
         </div>
         <div className="vignesh-b2lnt7" data-vignesh-name="Frame 1739329100">
           <div className="vignesh-t4subr" data-vignesh-name="In 2025, procurement teams were still buried in spreadsheets, email chains, and rigid ERP workflows. With 80% relying on Excel macros for RFQ splitting and 72% reporting ERP sync failures, the process was slow, error-prone, and opaque." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Most medical tourism platforms today scatter critical information across multiple sites and intermediaries, leaving patients anxious and overwhelmed."}
             </p>
-            <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Even modern booking portals struggle to deliver trust, transparency, and human reassurance for individuals navigating cross‑border healthcare."}
             </p>
           </div>
           <div className="vignesh-wyq6i5" data-vignesh-name="As the UX Designer, I led the transformation of this fragmented experience into Procure AI — a platform that adapts to user context, surfaces savings opportunities, and guides teams through RFQs, simulations, and supplier decisions with clarity and confidence." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"By reducing cognitive overload and embedding trust‑by‑design principles, I made medical travel not just manageable — but empowering and humane."}
             </p>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"Medwell integrates transparent pricing, unified logistics, and 24/7 care coordination, turning vulnerability into a seamless, guided journey."}
             </p>
           </div>
@@ -221,19 +221,19 @@ export default function Content() {
       </div>
       <div className="vignesh-1py83ra" data-vignesh-name="Problem" id="problem">
         <div className="vignesh-1n42eb5" data-vignesh-name="What We’re Solving" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
             {"What We’re Solving"}
           </p>
         </div>
         <div className="vignesh-yd1or3" data-vignesh-name="Frame 1739329110">
           <div className="vignesh-d9eg7p" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-cdjsmi" data-vignesh-name="Procurement users aren’t asking for more features" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Users aren’t asking for more features"}
               </p>
             </div>
             <div className="vignesh-1tig7xf" data-vignesh-name="— they’re asking for clarity, speed, and control. Here’s what they’ve told us:" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {" —  they’re asking for clarity, trust, and human reassurance in their medical journey."}
               </p>
             </div>
@@ -247,12 +247,12 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-1hc8pza" data-vignesh-name="Fragmented Workflows" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "20px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Pricing Black Box  "}
                   </p>
                 </div>
                 <div className="vignesh-ebzxa5" data-vignesh-name="“I juggle spreadsheets, emails, and ERP systems — nothing feels connected.”" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--framer-font-size": "14px", "--framer-font-style": "italic", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--vignesh-font-size": "14px", "--vignesh-font-style": "italic", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Hidden fees and unclear doctor experience make patients feel scammed."}
                   </p>
                 </div>
@@ -264,12 +264,12 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-1xpydz5" data-vignesh-name="Unclear Priorities" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "20px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Logistics Fragmentation  "}
                   </p>
                 </div>
                 <div className="vignesh-1uer8xo" data-vignesh-name="“I waste hours just figuring out which RFQs are pending and who owns them.”" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--framer-font-size": "14px", "--framer-font-style": "italic", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--vignesh-font-size": "14px", "--vignesh-font-style": "italic", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Patients juggle visas, flights, hotels, and hospital bookings across multiple sites."}
                   </p>
                 </div>
@@ -281,12 +281,12 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-15in78" data-vignesh-name="Missed Opportunities" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "20px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Isolation & Vulnerability  "}
                   </p>
                 </div>
                 <div className="vignesh-k2b76w" data-vignesh-name="“We miss savings because comparing parts and suppliers is too manual.”" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--framer-font-size": "14px", "--framer-font-style": "italic", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--vignesh-font-size": "14px", "--vignesh-font-style": "italic", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Waking up post‑surgery in a foreign country with no one to call is terrifying."}
                   </p>
                 </div>
@@ -300,12 +300,12 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-19bvi1o" data-vignesh-name="Broken Collaboration" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "20px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Continuity of Care Disconnect  "}
                   </p>
                 </div>
                 <div className="vignesh-lfvyab" data-vignesh-name="“Feedback and approvals happen outside the platform — drafts get lost in email chains.”" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--framer-font-size": "14px", "--framer-font-style": "italic", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--vignesh-font-size": "14px", "--vignesh-font-style": "italic", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Medical history is siloed between home doctors, Indian surgeons, and post‑return care."}
                   </p>
                 </div>
@@ -319,12 +319,12 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-1v728k4" data-vignesh-name="Low Confidence" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "20px", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Cultural & Language Penalty  "}
                   </p>
                 </div>
                 <div className="vignesh-7zwjxa" data-vignesh-name="“I don’t trust the system to guide me, so I fall back on Excel and gut instinct.”" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--framer-font-size": "14px", "--framer-font-style": "italic", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItSXRhbGlj", "--vignesh-font-size": "14px", "--vignesh-font-style": "italic", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Daily stress comes from communication gaps with nurses, pharmacies, and local norms."}
                   </p>
                 </div>
@@ -335,19 +335,19 @@ export default function Content() {
       </div>
       <div className="vignesh-1kibac3" data-vignesh-name="Frame 1739329101" id="highlights">
         <div className="vignesh-hxqmp2" data-vignesh-name="Highlights" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+          <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
             {"Highlights"}
           </p>
         </div>
         <div className="vignesh-30k7r5" data-vignesh-name="Frame 1739329109">
           <div className="vignesh-bidlsn" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-onqkt9" data-vignesh-name="Switch seamlessly between country or category profiles." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Capture user preferences in under 45 seconds with frictionless onboarding."}
               </p>
             </div>
             <div className="vignesh-g0q162" data-vignesh-name="Users struggled with fragmented workflows; applying contextual adaptation made dashboards flexible yet scalable across markets." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Patients were exhausted by 20-question intake forms; applying an Adaptive UI instantly personalizes visual density and tone, reducing cognitive load from the very first tap."}
               </p>
             </div>
@@ -363,12 +363,12 @@ export default function Content() {
         <div className="vignesh-1p9e07c" data-vignesh-name="Frame 1739329110">
           <div className="vignesh-j4ha02" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-1wfotoq" data-vignesh-name="AI surfaces hidden savings from historical records." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Convert medical jargon and route symptoms safely with Smart Triage."}
               </p>
             </div>
             <div className="vignesh-jnwd4o" data-vignesh-name="Procurement data was overwhelming; using predictive insights turned buried numbers into clear, actionable opportunities." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Open-ended chatbots caused clinical anxiety; using Bounded AI strictly for 6th-grade level translation and symptom routing built deep trust without crossing legal diagnostic boundaries."}
               </p>
             </div>
@@ -391,12 +391,12 @@ export default function Content() {
         <div className="vignesh-1ub9111" data-vignesh-name="Frame 1739329111">
           <div className="vignesh-7cp2xz" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-14v0alv" data-vignesh-name="Edit part dimensions in real‑time with interactive 3D." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Log daily pills dynamically with interactive visual recovery timelines."}
               </p>
             </div>
             <div className="vignesh-3yovk0" data-vignesh-name="Static tables lacked clarity; direct manipulation gave users tangible control and confidence in opportunity validation." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"Static medication lists led to massive non-compliance; utilizing Habit Loop Formation and satisfying micro-interactions drove daily retention and adherence."}
               </p>
             </div>
@@ -418,14 +418,14 @@ export default function Content() {
         </div>
         <div className="ssr-variant hidden-150lssj">
           <div className="vignesh-9nu4z9" data-vignesh-name="Scroll for more detailed process" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-font-size": "24px", "--framer-line-height": "26px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "26px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"Scroll for more detailed process"}
             </p>
           </div>
         </div>
         <div className="ssr-variant hidden-1r3riag">
           <div className="vignesh-9nu4z9" data-vignesh-name="Scroll for more detailed process" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-line-height": "26px", "--framer-text-alignment": "center", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-line-height": "26px", "--vignesh-text-alignment": "center", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"Scroll for more detailed process"}
             </p>
           </div>
@@ -434,18 +434,18 @@ export default function Content() {
       <div className="vignesh-12oovng" data-vignesh-name="Frame 1739329291" id="insights">
         <div className="vignesh-13ov6xv" data-vignesh-name="Frame 1739329103">
           <div className="vignesh-1fadvhx" data-vignesh-name="Insights" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Insights"}
             </p>
           </div>
           <div className="vignesh-1b7tk9c" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-1v5gnqq" data-vignesh-name="In the Discovery Phase, our goal was to uncover real procurement challenges and translate them into design opportunities. We focused on achieving clarity in workflows, confidence in decisions, and seamless collaboration by aligning both user needs and business goals." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"We found that medical tourism platforms weren’t failing because of missing features — they were failing patients with opacity, fragmentation, and isolation. International patients struggled to see costs clearly, coordinate logistics seamlessly, and feel supported emotionally throughout their journey."}
               </p>
             </div>
             <div className="vignesh-1q5qb2d" data-vignesh-name="To extract these insights, we conducted 10 user interviews, ran secondary research using industry reports, and performed a competitive audit of leading platforms. This revealed systemic issues like fragmented tools, manual overload, and trust gaps, which design could directly address to build a more adaptive, intelligent ecosystem." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"From scattered websites into a unified, human‑centered flow, Medwell gives patients clarity, trust, and control. As the UX designer, my impact was in reducing cognitive load, embedding Trust‑by‑Design principles, and making medical travel not just manageable — but empowering and humane."}
               </p>
             </div>
@@ -458,18 +458,18 @@ export default function Content() {
                 <div className="vignesh-1rf9pe1" data-vignesh-name="Frame 1739329113">
                   <div className="vignesh-vxrmnk" data-vignesh-name="Frame 1739329392">
                     <div className="vignesh-1h4k34y" data-vignesh-name="38%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "48px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "48px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "48px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"38"}
                         </span>
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"%"}
                         </span>
                       </p>
                     </div>
                     <div className="vignesh-1kroui8" data-vignesh-name="Fear hidden costs most" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                           {"Fear hidden costs most"}
                         </span>
                       </p>
@@ -479,18 +479,18 @@ export default function Content() {
                 <div className="vignesh-4bcpq1" data-vignesh-name="Frame 1739329116">
                   <div className="vignesh-j8egys" data-vignesh-name="Frame 1739329392">
                     <div className="vignesh-v2n6xy" data-vignesh-name="32%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "48px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "48px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "48px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"32"}
                         </span>
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"%"}
                         </span>
                       </p>
                     </div>
                     <div className="vignesh-g3v08r" data-vignesh-name="Demand free video consults before booking" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                           {" Demand free video consults before booking"}
                         </span>
                       </p>
@@ -500,18 +500,18 @@ export default function Content() {
                 <div className="vignesh-1xdinmz" data-vignesh-name="Frame 1739329117">
                   <div className="vignesh-sr6h97" data-vignesh-name="Frame 1739329392">
                     <div className="vignesh-11162i9" data-vignesh-name="28%" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "48px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "48px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "48px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"28"}
                         </span>
-                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                           {"%"}
                         </span>
                       </p>
                     </div>
                     <div className="vignesh-1yyvd5u" data-vignesh-name="Require multi‑language support" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                      <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                           {" Require multi‑language support "}
                         </span>
                       </p>
@@ -536,57 +536,57 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-1v3wl83" data-vignesh-name="Trust & Transparency" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Trust & Transparency"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-5g4hrv" data-vignesh-name="Low" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"Low"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-1nol1pl" data-vignesh-name="Low" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"Low"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-urox89" data-vignesh-name="Mid" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"Mid"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-krh53n" data-vignesh-name="Mid" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"Mid"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-rnxv9" data-vignesh-name="High" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"High"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-cccoad" data-vignesh-name="High" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 0.5)" }} className="vignesh-text">
                       {"High"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-38nd6x" data-vignesh-name="Digital Experience" data-vignesh-component-type="RichTextContainer" style={{ transform: "rotate(-90deg)" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Digital Experience"}
                     </span>
                   </p>
@@ -610,29 +610,29 @@ export default function Content() {
                   </div>
                 </div>
                 <div className="vignesh-1kp11h0" data-vignesh-name="Vaidam Health" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "16px", "--framer-text-alignment": "center" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "16px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Vaidam Health"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-1t7tj1b" data-vignesh-name="MediGence" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "16px", "--framer-text-alignment": "center" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "16px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"MediGence"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-oakeh9" data-vignesh-name="Qonaq AI" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "16px", "--framer-text-alignment": "center" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "16px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Qonaq AI"}
                     </span>
                   </p>
                 </div>
                 <div className="vignesh-rkqnsd" data-vignesh-name="IndiCure" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "10px", "--framer-line-height": "16px", "--framer-text-alignment": "center" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "10px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "10px", "--vignesh-line-height": "16px", "--vignesh-text-alignment": "center" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "10px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"IndiCure"}
                     </span>
                   </p>
@@ -643,18 +643,18 @@ export default function Content() {
               <div className="vignesh-wnl0fo" data-vignesh-name="Frame 1739329365">
                 <div className="vignesh-1b3bwek" data-vignesh-name="Frame 1739329392">
                   <div className="vignesh-1350koq" data-vignesh-name="1.9 /5" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "48px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "48px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "48px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "48px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"1.9 "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "24px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "24px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"/5"}
                       </span>
                     </p>
                   </div>
                   <div className="vignesh-ny3c24" data-vignesh-name="Satisfaction with post‑care follow‑up (weakest link today)" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "20px", "--framer-line-height": "30px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "R0Y7TGF0by01MDA=", "--framer-font-family": "\"Lato\"", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-text-color": "rgba(24, 26, 34, 0.6000000238418579)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "20px", "--vignesh-line-height": "30px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "R0Y7TGF0by01MDA=", "--vignesh-font-family": "\"Lato\"", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-text-color": "rgba(24, 26, 34, 0.6000000238418579)" }} className="vignesh-text">
                         {"Satisfaction with post‑care follow‑up (weakest link today)"}
                       </span>
                     </p>
@@ -679,8 +679,8 @@ export default function Content() {
                       </div>
                     </div>
                     <div className="vignesh-1cqg9gv" data-vignesh-name="Show me a real person. Not a chatbot. I want to see the face of the person who will pick me up at the airport, and I want their phone number." data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                      <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "R0Y7TGF0by1yZWd1bGFy", "--framer-font-family": "\"Lato\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "R0Y7TGF0by1yZWd1bGFy", "--vignesh-font-family": "\"Lato\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                           {"Show me a real person. Not a chatbot. I want to see the face of the person who will pick me up at the airport, and I want their phone number."}
                         </span>
                       </p>
@@ -693,13 +693,13 @@ export default function Content() {
                       </div>
                     </div>
                     <div className="vignesh-19fdlpp" data-vignesh-name="Grace Nairobi" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-                      <p style={{ "--framer-font-size": "12px", "--framer-line-height": "20px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px" }} className="vignesh-text">
                           {"Grace"}
                         </span>
                       </p>
-                      <p style={{ "--framer-font-size": "12px", "--framer-line-height": "20px" }} className="vignesh-text">
-                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "300", "--framer-letter-spacing": "0px" }} className="vignesh-text">
+                      <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                        <span style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-family": "\"Inter-Light\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "0px" }} className="vignesh-text">
                           {"Nairobi"}
                         </span>
                       </p>
@@ -728,19 +728,19 @@ export default function Content() {
       <div className="vignesh-1ihb78e" data-vignesh-name="Frame 1739329292" id="solution">
         <div className="vignesh-y6ygyc" data-vignesh-name="Frame 1739329103">
           <div className="vignesh-153lbbn" data-vignesh-name="Problem and solution" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Problem and solution"}
             </p>
           </div>
           <div className="vignesh-1u3gy26" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-jszwuo" data-vignesh-name="Turning Challenges into streamlined solution" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"Turning "}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"Challenges"}
                 </span>
                 {" into streamlined "}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"solution"}
                 </span>
               </p>
@@ -751,7 +751,7 @@ export default function Content() {
           <div className="vignesh-y2pplm" data-vignesh-name="Frame 1739329302">
             <div className="vignesh-7pn7hk" data-vignesh-name="Frame 1739329293">
               <div className="vignesh-gv4tw4" data-vignesh-name="Layer" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"Layer"}
                 </p>
               </div>
@@ -774,8 +774,8 @@ export default function Content() {
                     </div>
                   </div>
                   <div className="vignesh-en78sv" data-vignesh-name="Travel planner" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
                         {"Travel planner"}
                       </span>
                     </p>
@@ -790,8 +790,8 @@ export default function Content() {
                     </div>
                   </div>
                   <div className="vignesh-19nd6wb" data-vignesh-name="Curated and Verified" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
                         {"Curated and Verified"}
                       </span>
                     </p>
@@ -799,7 +799,7 @@ export default function Content() {
                 </div>
               </div>
               <div className="vignesh-1n2c5gy" data-vignesh-name="A dash of contextual Profile Switching with a scoop of AI-driven Opportunity Hub" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Unifies Visa, Flights and Hospitals into One Streamlined flow."}
                 </p>
               </div>
@@ -815,8 +815,8 @@ export default function Content() {
                     </div>
                   </div>
                   <div className="vignesh-1e30042" data-vignesh-name="24/7 Care Buddy" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
                         {"24/7 Care Buddy"}
                       </span>
                     </p>
@@ -831,8 +831,8 @@ export default function Content() {
                     </div>
                   </div>
                   <div className="vignesh-1j1cmw9" data-vignesh-name="Transparent" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(0, 121, 231, 1)" }} className="vignesh-text">
                         {"Transparent"}
                       </span>
                     </p>
@@ -840,7 +840,7 @@ export default function Content() {
                 </div>
               </div>
               <div className="vignesh-1lw4bau" data-vignesh-name="A sprinkle of prioritized Task Center, served with smart RFQ and Simulation workflows" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Eliminates surprises, verifies providers and provides constant human support."}
                 </p>
               </div>
@@ -851,14 +851,14 @@ export default function Content() {
             <div className="vignesh-qd82ml" data-vignesh-name="Frame 1739329297">
               <div className="ssr-variant hidden-150lssj">
                 <div className="vignesh-j06bwa" data-vignesh-name="Procure AI — Intelligent Procurement, Personalized Workflows, and Confident Decisions" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                     {"Medwell — Trust‑by‑Design, Seamless Journeys, Lifetime Continuity"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-1r3riag">
                 <div className="vignesh-j06bwa" data-vignesh-name="Procure AI — Intelligent Procurement, Personalized Workflows, and Confident Decisions" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(255, 255, 255)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(255, 255, 255)" }} className="vignesh-text">
                     {"Medwell — Trust‑by‑Design, Seamless Journeys, Lifetime Continuity"}
                   </p>
                 </div>
@@ -866,7 +866,7 @@ export default function Content() {
             </div>
             <div className="vignesh-tyikx1" data-vignesh-name="Frame 1739329294">
               <div className="vignesh-12lc4lw" data-vignesh-name="Solution" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                   {"Solution"}
                 </p>
               </div>
@@ -884,7 +884,7 @@ export default function Content() {
       <div className="vignesh-1nvnkl7" data-vignesh-name="Frame 1739329294" id="ideation">
         <div className="vignesh-1f4er75" data-vignesh-name="Frame 1739329103">
           <div className="vignesh-mlr0ri" data-vignesh-name="Ideation" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Ideation"}
             </p>
           </div>
@@ -892,7 +892,7 @@ export default function Content() {
         <div className="vignesh-1srhj8m" data-vignesh-name="Frame 1739329330">
           <div className="vignesh-gnnuv8" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-31gfn6" data-vignesh-name="[Navbar]" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "32px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                 {"[Navbar]"}
               </p>
             </div>
@@ -925,14 +925,14 @@ export default function Content() {
       <div className="vignesh-vty2jd" data-vignesh-name="Frame 1739329295" id="final-design">
         <div className="vignesh-e0ojq9" data-vignesh-name="Frame 1739329103">
           <div className="vignesh-1q13gkg" data-vignesh-name="Final Design" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Final Design"}
             </p>
           </div>
           <div className="vignesh-tx0q4c" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-1th6igi" data-vignesh-name="Visualizing the Experience" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"Visualizing"}
                 </span>
                 {" the Experience"}
@@ -951,26 +951,26 @@ export default function Content() {
       <div className="vignesh-1basgre" data-vignesh-name="Frame 1739329296" id="learnings">
         <div className="vignesh-eeh2q0" data-vignesh-name="Frame 1739329103">
           <div className="vignesh-1aaiipo" data-vignesh-name="Learnings" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(217, 172, 129)" }} className="vignesh-text">
               {"Learnings"}
             </p>
           </div>
           <div className="vignesh-1bmmyum" data-vignesh-name="Frame 1739329100">
             <div className="vignesh-1jtmiis" data-vignesh-name="Struggles turned into outcomes, and outcomes into lessons — making me a better UX designer with sharper instincts for clarity, trust, and impact." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--framer-font-size": "20px", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "26px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "26px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"Struggles"}
                 </span>
                 {" turned "}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"into outcomes"}
                 </span>
                 {", and outcomes in"}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"to lesson"}
                 </span>
                 {"s — making me "}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                   {"a better UX designer"}
                 </span>
                 {" with sharper instincts for clarity, trust, and impact."}
@@ -991,13 +991,13 @@ export default function Content() {
                 </div>
                 <div className="vignesh-15e9vg1" data-vignesh-name="Frame 1739329331">
                   <div className="vignesh-9vu8vm" data-vignesh-name="Balancing guidance vs. flexibility" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                       {" Trust Drives Conversion"}
                     </p>
                   </div>
                 </div>
                 <div className="vignesh-1yo5pqw" data-vignesh-name="Applied the Progressive Disclosure pattern — starting simple (login), then gradually revealing complexity (accordion with summary)." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-size": "14px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-size": "14px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Aggressive sales funnels fail in high-stakes healthcare. Transparent costs and empathetic \"soft handoffs\" are the true drivers of user retention."}
                   </p>
                 </div>
@@ -1014,13 +1014,13 @@ export default function Content() {
                 </div>
                 <div className="vignesh-zzwrer" data-vignesh-name="Frame 1739329331">
                   <div className="vignesh-1g2njbq" data-vignesh-name="Building trust in AI outputs" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                       {"Design for High-Stress States"}
                     </p>
                   </div>
                 </div>
                 <div className="vignesh-1fb0yvc" data-vignesh-name="Used Visibility of System Status (Nielsen’s Heuristic) — showing summaries, “what‑if” simulations, and transparent calculations built confidence." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-size": "14px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-size": "14px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Anxious, recovering patients require extreme accessibility—large touch targets, high contrast, and zero clinical jargon"}
                   </p>
                 </div>
@@ -1039,13 +1039,13 @@ export default function Content() {
                 </div>
                 <div className="vignesh-15rsd3a" data-vignesh-name="Frame 1739329331">
                   <div className="vignesh-1xeq5z4" data-vignesh-name="Aligning user frustrations with business goals" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                       {"Progressive Disclosure Cures Paralysis"}
                     </p>
                   </div>
                 </div>
                 <div className="vignesh-1ituaxz" data-vignesh-name="Applied Goal‑Gradient Effect — prioritized task center gave users a sense of progress while driving efficiency for the business. Applied Goal‑Gradient Effect — prioritized task center gave users a sense of progress while driving efficiency for the business." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-size": "14px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-size": "14px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Chunking massive medical bills and complex logistics into bite-sized steps replaces cognitive overload with user momentum."}
                   </p>
                 </div>
@@ -1062,13 +1062,13 @@ export default function Content() {
                 </div>
                 <div className="vignesh-1rpta42" data-vignesh-name="Frame 1739329331">
                   <div className="vignesh-lt28tt" data-vignesh-name="Users overwhelmed by too many fields" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
                       {"Service Design Crosses the Screen"}
                     </p>
                   </div>
                 </div>
                 <div className="vignesh-1656qcm" data-vignesh-name="Leveraged Cognitive Load Theory — chunking information into steps (stepper modal) reduced mental effort." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--framer-font-size": "14px", "--framer-font-weight": "300", "--framer-letter-spacing": "-0.01em", "--framer-line-height": "20px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItTGlnaHQ=", "--vignesh-font-size": "14px", "--vignesh-font-weight": "300", "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "20px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"Great UX orchestrates real-world logistics, seamlessly mapping physical constraints (like wheelchair access and caregivers) directly into the interface."}
                   </p>
                 </div>

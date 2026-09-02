@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Content".
+/** Generated from the vignesh section "Content".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Content() {
   return (
@@ -10,12 +10,12 @@ export default function Content() {
       <div className="vignesh-j0sbpo" data-vignesh-name="Impact">
         <div className="vignesh-belrrb" data-vignesh-name="Details">
           <div className="vignesh-1oyk828" data-vignesh-name="The Flight 401 Crisis" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"The Problem"}
             </p>
           </div>
           <div className="vignesh-1crfwf0" data-vignesh-name="In December 1972, Eastern Air Lines Flight 401 was descending into Miami when a minor instrument light bulb failed to illuminate. The cockpit crew, entirely consumed by figuring out why the landing gear indicator wouldn't turn on, accidentally nudged the flight controls, turning off the autopilot." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Found an inspirational UI card, a neat pricing chart, or a dashboard layout online? Dragging it into your design workspace historically meant screenshots, painstaking measurement, color-picking, and rebuilding layer-by-layer. This represents minutes of tedious setup work before you can begin actual layout exploration. "}
             </p>
           </div>
@@ -94,15 +94,15 @@ export default function Content() {
       <div className="vignesh-ekoxv1" data-vignesh-name="Impact">
         <div className="vignesh-9oq8mm" data-vignesh-name="Details">
           <div className="vignesh-1gn73oe" data-vignesh-name="The Psychology of Attention" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"Two Steps. That's It."}
             </p>
           </div>
           <div className="vignesh-h9tibx" data-vignesh-name="Our visual attention is biological, not intellectual. When a user experiences sudden stress (like an anomaly warning), their cognitive bandwidth shrinks. The brain enters a defensive state, narrowing focus to what it perceives as the primary threat." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               <br className="vignesh-text trailing-break" />
             </p>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Stencil bridges the gap between active code and design layers. Simply capture the element in Chrome and paste it directly on your Figma canvas. The layout arrives clean, responsive, and completely structured. "}
             </p>
           </div>
@@ -270,12 +270,12 @@ export default function Content() {
       <div className="vignesh-1hqq3hn" data-vignesh-name="Frame 1739329296">
         <div className="vignesh-3r9asf" data-vignesh-name="Details">
           <div className="vignesh-l2rhxq" data-vignesh-name="Interactive Lab: Breaking the Tunnel" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-line-height": "32px", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
               {"When Things Don't Translate Perfectly"}
             </p>
           </div>
           <div className="vignesh-1n82jv2" data-vignesh-name="Click through the modes below to experience the visual noise levels first-hand and see how design mitigates attention blindness." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"The web and Figma speak fundamentally different layout languages. Stencil is designed with graceful fallbacks — it handles complex code configurations without crashing or breaking your canvas structure. "}
             </p>
           </div>
@@ -284,8 +284,8 @@ export default function Content() {
           <div className="vignesh-v4qx93" data-border="true" data-vignesh-name="Container">
             <div className="vignesh-1qar1jv" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-ejr4gn" data-vignesh-name="Aa" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Aa"}
                   </span>
                 </p>
@@ -293,8 +293,8 @@ export default function Content() {
             </div>
             <div className="vignesh-4kmq50" data-vignesh-name="Heading 3">
               <div className="vignesh-1462oh7" data-vignesh-name="Font Not Installed?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Font Not Installed?"}
                   </span>
                 </p>
@@ -302,8 +302,8 @@ export default function Content() {
             </div>
             <div className="vignesh-14gox9x" data-vignesh-name="Paragraph">
               <div className="vignesh-19bet8t" data-vignesh-name="Falls back directly to standard system fonts (like" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Falls back directly to standard system fonts (like Inter) so text layers land editable — rather than rendering as broken placeholder boxes. "}
                   </span>
                 </p>
@@ -313,8 +313,8 @@ export default function Content() {
           <div className="vignesh-7m0lp8" data-border="true" data-vignesh-name="Container">
             <div className="vignesh-i18t0j" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-yi4ubh" data-vignesh-name="🖼" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"🖼"}
                   </span>
                 </p>
@@ -322,8 +322,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1diovuk" data-vignesh-name="Heading 3">
               <div className="vignesh-1qg03qu" data-vignesh-name="Image Fails to Load?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Image Fails to Load?"}
                   </span>
                 </p>
@@ -331,8 +331,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1lxm1no" data-vignesh-name="Paragraph">
               <div className="vignesh-1rqy15i" data-vignesh-name="Blocked, missing, or cross-origin restricted image" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Blocked, missing, or cross-origin restricted images automatically resolve to a neutral placeholder frame, keeping design structure clean. "}
                   </span>
                 </p>
@@ -342,8 +342,8 @@ export default function Content() {
           <div className="vignesh-1bv208e" data-border="true" data-vignesh-name="Container">
             <div className="vignesh-4xtp79" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-1qaddt7" data-vignesh-name="◇" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"◇"}
                   </span>
                 </p>
@@ -351,8 +351,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1wo4sxf" data-vignesh-name="Heading 3">
               <div className="vignesh-1dejvvi" data-vignesh-name="Icon Won't Convert?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Icon Won't Convert?"}
                   </span>
                 </p>
@@ -360,8 +360,8 @@ export default function Content() {
             </div>
             <div className="vignesh-dfa5gy" data-vignesh-name="Paragraph">
               <div className="vignesh-cda83j" data-vignesh-name="Extremely complex inline SVG vector paths that fai" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Extremely complex inline SVG vector paths that fail parse sequences get represented as clean vector placeholder boxes rather than breaking compilation. "}
                   </span>
                 </p>
@@ -371,8 +371,8 @@ export default function Content() {
           <div className="vignesh-1klhvc3" data-border="true" data-vignesh-name="Container">
             <div className="vignesh-ic8qcm" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-17swl6x" data-vignesh-name="⚡" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"⚡"}
                   </span>
                 </p>
@@ -380,8 +380,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1fst7i1" data-vignesh-name="Heading 3">
               <div className="vignesh-1ym81b9" data-vignesh-name="Layout Too Complex?" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                     {"Layout Too Complex?"}
                   </span>
                 </p>
@@ -389,8 +389,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1nqnk6j" data-vignesh-name="Paragraph">
               <div className="vignesh-1ddqxl0" data-vignesh-name="Web-only animations, transitions, hovers, and scri" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "12px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                     {"Web-only animations, transitions, hovers, and script elements are ignored. Stencil extracts the clean static starting point of the layout. "}
                   </span>
                 </p>
@@ -402,15 +402,15 @@ export default function Content() {
       <div className="vignesh-1g9ki2n" data-border="true" data-vignesh-name="Section">
         <div className="vignesh-1vbiuag" data-vignesh-name="Container">
           <div className="vignesh-1eyzhcx" data-vignesh-name="Try It Yourself" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "32px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"Try It Yourself"}
               </span>
             </p>
           </div>
           <div className="vignesh-87z7bl" data-vignesh-name="Stencil is completely free to download. Get both p" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                 {"Stencil is completely free to download. Get both parts — the Chrome extension files and the Figma manifest package. Extract, load, and begin syncing. "}
               </span>
             </p>
@@ -421,8 +421,8 @@ export default function Content() {
             <div className="vignesh-1iwgvak" data-vignesh-name="Container">
               <div className="vignesh-i5rgpp" data-vignesh-name="Text">
                 <div className="vignesh-m339h6" data-vignesh-name="Part 1 — Chrome Extension" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0.45px", "--vignesh-text-color": "rgba(162, 89, 255, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                       {"Part 1 — Chrome Extension"}
                     </span>
                   </p>
@@ -430,8 +430,8 @@ export default function Content() {
               </div>
               <div className="vignesh-186g5f6" data-vignesh-name="Heading 3">
                 <div className="vignesh-93oj9v" data-vignesh-name="Capture Layouts" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                       {"Capture Layouts"}
                     </span>
                   </p>
@@ -439,8 +439,8 @@ export default function Content() {
               </div>
               <div className="vignesh-3lrpv2" data-vignesh-name="Paragraph">
                 <div className="vignesh-1idmazi" data-vignesh-name="Hover and select any DOM node elements. Select com" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Hover and select any DOM node elements. Select components, analyze sizes, and sync them directly to your paste queue. "}
                     </span>
                   </p>
@@ -450,8 +450,8 @@ export default function Content() {
             <div className="vignesh-1ft82ir" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-197fzes" data-vignesh-name="Text">
                 <div className="vignesh-1utknfj" data-vignesh-name="v1.2 · Unpacked" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"v1.2 · Unpacked"}
                     </span>
                   </p>
@@ -459,8 +459,8 @@ export default function Content() {
               </div>
               <div className="vignesh-1uyo5qs" data-vignesh-name="Link">
                 <div className="vignesh-1xezdit" data-vignesh-name="Get Chrome Extension " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16.25px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Get Chrome Extension "}
                     </span>
                   </p>
@@ -472,8 +472,8 @@ export default function Content() {
             <div className="vignesh-1uts1zg" data-vignesh-name="Container">
               <div className="vignesh-1hzlw31" data-vignesh-name="Text">
                 <div className="vignesh-1hletcz" data-vignesh-name="Part 2 — Figma Plugin" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.45px", "--framer-text-color": "rgba(162, 89, 255, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0.45px", "--vignesh-text-color": "rgba(162, 89, 255, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                       {"Part 2 — Figma Plugin"}
                     </span>
                   </p>
@@ -481,8 +481,8 @@ export default function Content() {
               </div>
               <div className="vignesh-f6k2lj" data-vignesh-name="Heading 3">
                 <div className="vignesh-q46rgi" data-vignesh-name="Render Editable Frames" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                       {"Render Editable Frames"}
                     </span>
                   </p>
@@ -490,8 +490,8 @@ export default function Content() {
               </div>
               <div className="vignesh-1vqy1gu" data-vignesh-name="Paragraph">
                 <div className="vignesh-1kgunx4" data-vignesh-name="Access your sync queue from Figma. Paste captures " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"Access your sync queue from Figma. Paste captures instantly as editable frames with preserved properties. "}
                     </span>
                   </p>
@@ -501,8 +501,8 @@ export default function Content() {
             <div className="vignesh-kam77e" data-border="true" data-vignesh-name="Container">
               <div className="vignesh-1w8qlb7" data-vignesh-name="Text">
                 <div className="vignesh-155fvt3" data-vignesh-name="v1.2 · Developer Plugin" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                       {"v1.2 · Developer Plugin"}
                     </span>
                   </p>
@@ -510,8 +510,8 @@ export default function Content() {
               </div>
               <div className="vignesh-1d21yb4" data-vignesh-name="Link">
                 <div className="vignesh-1k198hv" data-vignesh-name="Get Figma Plugin " data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16.25px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16.25px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Get Figma Plugin "}
                     </span>
                   </p>
@@ -523,8 +523,8 @@ export default function Content() {
         <div className="vignesh-8cm1nn" data-border="true" data-vignesh-name="Container">
           <div className="vignesh-9bp1ng" data-vignesh-name="Heading 4">
             <div className="vignesh-15tjfzw" data-vignesh-name="Quick Install Guide" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p style={{ "--framer-font-size": "14px", "--framer-line-height": "20px" }} className="vignesh-text">
-                <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "14px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+              <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "14px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                   {"Quick Install Guide"}
                 </span>
               </p>
@@ -534,8 +534,8 @@ export default function Content() {
             <div className="vignesh-q8mql" data-vignesh-name="Container">
               <div className="vignesh-1ehac0q" data-vignesh-name="Text">
                 <div className="vignesh-m7ouo5" data-vignesh-name="Chrome Browser" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0.25px", "--vignesh-text-color": "rgba(102, 102, 102, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                       {"Chrome Browser"}
                     </span>
                   </p>
@@ -544,14 +544,14 @@ export default function Content() {
               <div className="vignesh-rogw4s" data-vignesh-name="Numbered List">
                 <div className="vignesh-i7atct" data-vignesh-name="List Item">
                   <div className="vignesh-178qxw8" data-vignesh-name="Unzip the archive to get the extension directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Unzip the archive to get the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"extension"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" directory."}
                       </span>
                     </p>
@@ -559,14 +559,14 @@ export default function Content() {
                 </div>
                 <div className="vignesh-1qvixy6" data-vignesh-name="List Item">
                   <div className="vignesh-p02l8k" data-vignesh-name="Open chrome://extensions and toggle Developer Mode" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Open "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"chrome://extensions"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" and toggle Developer Mode."}
                       </span>
                     </p>
@@ -574,14 +574,14 @@ export default function Content() {
                 </div>
                 <div className="vignesh-1y62gtg" data-vignesh-name="List Item">
                   <div className="vignesh-1xijoko" data-vignesh-name="Click Load Unpacked and select the directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Click "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"Load Unpacked"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" and select the directory."}
                       </span>
                     </p>
@@ -592,8 +592,8 @@ export default function Content() {
             <div className="vignesh-7267ld" data-vignesh-name="Container">
               <div className="vignesh-j2pkaq" data-vignesh-name="Text">
                 <div className="vignesh-1bcimcr" data-vignesh-name="Figma Application" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0.25px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNzAw", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0.25px", "--vignesh-text-color": "rgba(102, 102, 102, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                       {"Figma Application"}
                     </span>
                   </p>
@@ -602,14 +602,14 @@ export default function Content() {
               <div className="vignesh-1i0da2a" data-vignesh-name="Numbered List">
                 <div className="vignesh-1k6te8s" data-vignesh-name="List Item">
                   <div className="vignesh-1xlauha" data-vignesh-name="Unzip the archive to get the figma-plugin director" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Unzip the archive to get the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"figma-plugin"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" directory."}
                       </span>
                     </p>
@@ -617,8 +617,8 @@ export default function Content() {
                 </div>
                 <div className="vignesh-19jkpzz" data-vignesh-name="List Item">
                   <div className="vignesh-1u5fjpx" data-vignesh-name="Navigate to Plugins → Development → Import plugin." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Navigate to Plugins → Development → Import plugin."}
                       </span>
                     </p>
@@ -626,14 +626,14 @@ export default function Content() {
                 </div>
                 <div className="vignesh-13jwy90" data-vignesh-name="List Item">
                   <div className="vignesh-aa2sea" data-vignesh-name="Select the manifest.json inside the directory." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p style={{ "--framer-font-size": "12px", "--framer-line-height": "16px" }} className="vignesh-text">
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                    <p style={{ "--vignesh-font-size": "12px", "--vignesh-line-height": "16px" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {"Select the "}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "12px", "--framer-font-weight": "700", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "12px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                         {"manifest.json"}
                       </span>
-                      <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+                      <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                         {" inside the directory."}
                       </span>
                     </p>
@@ -647,8 +647,8 @@ export default function Content() {
       <div className="vignesh-y224ae" data-vignesh-name="Section">
         <div className="vignesh-1uus6d7" data-vignesh-name="Heading 3">
           <div className="vignesh-byo5jt" data-vignesh-name="Project Outcomes" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "20px", "--framer-line-height": "28px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "20px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.5px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "20px", "--vignesh-line-height": "28px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "20px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.5px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                 {"Project Outcomes"}
               </span>
             </p>
@@ -659,8 +659,8 @@ export default function Content() {
             <div className="vignesh-11qxi1" data-vignesh-name="Container">
               <div className="vignesh-af0sqw" data-vignesh-name="Text">
                 <div className="vignesh-1ghjz5c" data-vignesh-name="schedule" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"schedule"}
                     </span>
                   </p>
@@ -668,8 +668,8 @@ export default function Content() {
               </div>
               <div className="vignesh-8p2ln5" data-vignesh-name="Heading 4">
                 <div className="vignesh-vzcm22" data-vignesh-name="Time Optimization" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Time Optimization"}
                     </span>
                   </p>
@@ -678,8 +678,8 @@ export default function Content() {
             </div>
             <div className="vignesh-gbn5fb" data-vignesh-name="Paragraph">
               <div className="vignesh-15c60d" data-vignesh-name="Average setup time per component dropped from 2 mi" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Average setup time per component dropped from 2 minutes to under 2 seconds. Designers skip pixel measurements completely. "}
                   </span>
                 </p>
@@ -690,8 +690,8 @@ export default function Content() {
             <div className="vignesh-8l5kfh" data-vignesh-name="Container">
               <div className="vignesh-1yz12v5" data-vignesh-name="Text">
                 <div className="vignesh-x8fy6l" data-vignesh-name="layers" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"layers"}
                     </span>
                   </p>
@@ -699,8 +699,8 @@ export default function Content() {
               </div>
               <div className="vignesh-17tmtph" data-vignesh-name="Heading 4">
                 <div className="vignesh-7zxoo3" data-vignesh-name="Precision Fidelity" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Precision Fidelity"}
                     </span>
                   </p>
@@ -709,8 +709,8 @@ export default function Content() {
             </div>
             <div className="vignesh-shnhpj" data-vignesh-name="Paragraph">
               <div className="vignesh-4x2zcj" data-vignesh-name="All text elements, margins, paddings, backgrounds," data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"All text elements, margins, paddings, backgrounds, and auto-layouts carry over to Figma with 100% vector accuracy. "}
                   </span>
                 </p>
@@ -721,8 +721,8 @@ export default function Content() {
             <div className="vignesh-nnaihi" data-vignesh-name="Container">
               <div className="vignesh-1f6s7hn" data-vignesh-name="Text">
                 <div className="vignesh-urt6h2" data-vignesh-name="sync_alt" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"sync_alt"}
                     </span>
                   </p>
@@ -730,8 +730,8 @@ export default function Content() {
               </div>
               <div className="vignesh-1gshsy9" data-vignesh-name="Heading 4">
                 <div className="vignesh-15uhncq" data-vignesh-name="Seamless Flow" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Seamless Flow"}
                     </span>
                   </p>
@@ -740,8 +740,8 @@ export default function Content() {
             </div>
             <div className="vignesh-16h1aw7" data-vignesh-name="Paragraph">
               <div className="vignesh-14r5p76" data-vignesh-name="Drastically reduced switching overhead. Capture in" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Drastically reduced switching overhead. Capture inspiration directly in the browser and drop it onto the canvas instantly. "}
                   </span>
                 </p>

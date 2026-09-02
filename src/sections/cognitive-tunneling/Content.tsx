@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Content".
+/** Generated from the vignesh section "Content".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Content() {
   return (
@@ -10,14 +10,14 @@ export default function Content() {
       <div className="vignesh-1qxyco5" data-vignesh-name="Impact">
         <div className="vignesh-1v01hlx" data-vignesh-name="Details">
           <div className="vignesh-owexgb" data-vignesh-name="The Flight 401 Crisis" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "32px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"The Flight 401 Crisis"}
               </span>
             </p>
           </div>
           <div className="vignesh-1hamcev" data-vignesh-name="In December 1972, Eastern Air Lines Flight 401 was descending into Miami when a minor instrument light bulb failed to illuminate. The cockpit crew, entirely consumed by figuring out why the landing gear indicator wouldn't turn on, accidentally nudged the flight controls, turning off the autopilot." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-letter-spacing": "-0.01em", "--framer-line-height": "24px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-letter-spacing": "-0.01em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"In December 1972, Eastern Air Lines Flight 401 was descending into Miami when a minor instrument light bulb failed to illuminate. The cockpit crew, entirely consumed by figuring out why the landing gear indicator wouldn't turn on, accidentally nudged the flight controls, turning off the autopilot. "}
             </p>
           </div>
@@ -30,8 +30,8 @@ export default function Content() {
           </div>
         </div>
         <div className="vignesh-1iett3l" data-vignesh-name="While three veteran pilots hovered over a single $12 light bulb, the jumbo jet slowly lost altitude and crashed into the Florida Everglades. This tragic event coined the term Cognitive Tunneling—a stress-induced cognitive state where a user becomes so narrow-focused on a single task that they lose complete situational awareness." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-            <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+          <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+            <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
               {"While three veteran pilots hovered over a single $12 light bulb, the jumbo jet slowly lost altitude and crashed into the Florida Everglades. This tragic event coined the term Cognitive Tunneling—a stress-induced cognitive state where a user becomes so narrow-focused on a single task that they lose complete situational awareness. "}
             </span>
           </p>
@@ -40,15 +40,15 @@ export default function Content() {
       <div className="vignesh-kero90" data-vignesh-name="Impact">
         <div className="vignesh-10flo3h" data-vignesh-name="Details">
           <div className="vignesh-bfwv33" data-vignesh-name="The Psychology of Attention" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "32px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"The Psychology of Attention"}
               </span>
             </p>
           </div>
           <div className="vignesh-okyt4x" data-vignesh-name="Our visual attention is biological, not intellectual. When a user experiences sudden stress (like an anomaly warning), their cognitive bandwidth shrinks. The brain enters a defensive state, narrowing focus to what it perceives as the primary threat." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                 {"Our visual attention is biological, not intellectual. When a user experiences sudden stress (like an anomaly warning), their cognitive bandwidth shrinks. The brain enters a defensive state, narrowing focus to what it perceives as the primary threat. "}
               </span>
             </p>
@@ -57,8 +57,8 @@ export default function Content() {
         <div className="vignesh-mbupq2" data-vignesh-name="Container">
           <div className="vignesh-ehn8zr" data-border="true" data-vignesh-name="Text">
             <div className="vignesh-1l2d6s7" data-vignesh-name="Hick’s Law" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p style={{ "--framer-font-size": "11px", "--framer-line-height": "17.88px" }} className="vignesh-text">
-                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--framer-font-family": "\"Geist\"", "--framer-font-size": "11px", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+              <p style={{ "--vignesh-font-size": "11px", "--vignesh-line-height": "17.88px" }} className="vignesh-text">
+                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--vignesh-font-family": "\"Geist\"", "--vignesh-font-size": "11px", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(102, 102, 102, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                   {"Hick’s Law"}
                 </span>
               </p>
@@ -66,8 +66,8 @@ export default function Content() {
           </div>
           <div className="vignesh-5dla" data-border="true" data-vignesh-name="Text">
             <div className="vignesh-xhj4n" data-vignesh-name="Fitts’s Law" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p style={{ "--framer-font-size": "11px", "--framer-line-height": "17.88px" }} className="vignesh-text">
-                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--framer-font-family": "\"Geist\"", "--framer-font-size": "11px", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+              <p style={{ "--vignesh-font-size": "11px", "--vignesh-line-height": "17.88px" }} className="vignesh-text">
+                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--vignesh-font-family": "\"Geist\"", "--vignesh-font-size": "11px", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(102, 102, 102, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                   {"Fitts’s Law"}
                 </span>
               </p>
@@ -75,8 +75,8 @@ export default function Content() {
           </div>
           <div className="vignesh-1hf4vph" data-border="true" data-vignesh-name="Text">
             <div className="vignesh-1teipgu" data-vignesh-name="Miller’s Law" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p style={{ "--framer-font-size": "11px", "--framer-line-height": "17.88px" }} className="vignesh-text">
-                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--framer-font-family": "\"Geist\"", "--framer-font-size": "11px", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(102, 102, 102, 1)", "--framer-text-transform": "uppercase" }} className="vignesh-text">
+              <p style={{ "--vignesh-font-size": "11px", "--vignesh-line-height": "17.88px" }} className="vignesh-text">
+                <span style={{ "--font-selector": "R0Y7R2Vpc3QtcmVndWxhcg==", "--vignesh-font-family": "\"Geist\"", "--vignesh-font-size": "11px", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(102, 102, 102, 1)", "--vignesh-text-transform": "uppercase" }} className="vignesh-text">
                   {"Miller’s Law"}
                 </span>
               </p>
@@ -84,8 +84,8 @@ export default function Content() {
           </div>
         </div>
         <div className="vignesh-1l9qfta" data-vignesh-name="Traditional interface design assumes that adding alerts (more colors, flashing text, banners) is the solution. But under visual tunneling, the user does not see the margins. Flashing banners in headers go completely unperceived because the user's attention spotlight is locked on the center task." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-            <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+          <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+            <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
               {"Traditional interface design assumes that adding alerts (more colors, flashing text, banners) is the solution. But under visual tunneling, the user does not see the margins. Flashing banners in headers go completely unperceived because the user's attention spotlight is locked on the center task. "}
             </span>
           </p>
@@ -94,15 +94,15 @@ export default function Content() {
       <div className="vignesh-10gdsbj" data-vignesh-name="Frame 1739329296">
         <div className="vignesh-i2wkwy" data-vignesh-name="Details">
           <div className="vignesh-1r3urpq" data-vignesh-name="Interactive Lab: Breaking the Tunnel" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "32px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
                 {"Interactive Lab: Breaking the Tunnel"}
               </span>
             </p>
           </div>
           <div className="vignesh-2lq91d" data-vignesh-name="Click through the modes below to experience the visual noise levels first-hand and see how design mitigates attention blindness." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
                 {"Click through the modes below to experience the visual noise levels first-hand and see how design mitigates attention blindness. "}
               </span>
             </p>
@@ -188,15 +188,15 @@ export default function Content() {
       </div>
       <div className="vignesh-15q7izt" data-vignesh-name="Container">
         <div className="vignesh-106n0ib" data-vignesh-name="Designing Resilient Interfaces" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p style={{ "--framer-font-size": "24px", "--framer-line-height": "32px" }} className="vignesh-text">
-            <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "24px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.6px", "--framer-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
+          <p style={{ "--vignesh-font-size": "24px", "--vignesh-line-height": "32px" }} className="vignesh-text">
+            <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "24px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.6px", "--vignesh-text-color": "rgba(51, 51, 51, 1)" }} className="vignesh-text">
               {"Designing Resilient Interfaces"}
             </span>
           </p>
         </div>
         <div className="vignesh-173jx4p" data-vignesh-name="Stencil is completely free to download. Get both p" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-          <p style={{ "--framer-font-size": "16px", "--framer-line-height": "24px" }} className="vignesh-text">
-            <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "16px", "--framer-letter-spacing": "-0.01em", "--framer-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
+          <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "24px" }} className="vignesh-text">
+            <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "16px", "--vignesh-letter-spacing": "-0.01em", "--vignesh-text-color": "rgba(102, 102, 102, 1)" }} className="vignesh-text">
               {"How do we break the tunnel? The answer isn't more information—it's contextual curation. By dimming background noise and centering critical recovery states, we can guide the user's focus back to what truly matters. "}
             </span>
           </p>
@@ -205,8 +205,8 @@ export default function Content() {
       <div className="vignesh-1l48itv" data-vignesh-name="Section">
         <div className="vignesh-1ng295g" data-vignesh-name="Heading 3">
           <div className="vignesh-1036w47" data-vignesh-name="Stress-Resilient Design Checklist" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p style={{ "--framer-font-size": "20px", "--framer-line-height": "28px" }} className="vignesh-text">
-              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--framer-font-size": "20px", "--framer-font-weight": "700", "--framer-letter-spacing": "-0.5px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+            <p style={{ "--vignesh-font-size": "20px", "--vignesh-line-height": "28px" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-family": "\"Inter-Bold\", \"Inter\", sans-serif", "--vignesh-font-size": "20px", "--vignesh-font-weight": "700", "--vignesh-letter-spacing": "-0.5px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                 {"Stress-Resilient Design Checklist"}
               </span>
             </p>
@@ -217,8 +217,8 @@ export default function Content() {
             <div className="vignesh-e80qg2" data-vignesh-name="Container">
               <div className="vignesh-uvv6dv" data-vignesh-name="Text">
                 <div className="vignesh-1jd937c" data-vignesh-name="blur_on" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"blur_on"}
                     </span>
                   </p>
@@ -226,8 +226,8 @@ export default function Content() {
               </div>
               <div className="vignesh-2bbvcu" data-vignesh-name="Heading 4">
                 <div className="vignesh-29lp0w" data-vignesh-name="Ambient De-noising" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Ambient De-noising"}
                     </span>
                   </p>
@@ -236,8 +236,8 @@ export default function Content() {
             </div>
             <div className="vignesh-1mbyv56" data-vignesh-name="Paragraph">
               <div className="vignesh-12oesz7" data-vignesh-name="Average setup time per component dropped from 2 mi" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Automatically fade out non-essential controls and background charts during a system crisis to zero distraction levels. "}
                   </span>
                 </p>
@@ -248,8 +248,8 @@ export default function Content() {
             <div className="vignesh-1nlo0uj" data-vignesh-name="Container">
               <div className="vignesh-1hc5jck" data-vignesh-name="Text">
                 <div className="vignesh-1g5k19e" data-vignesh-name="ads_click" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"ads_click"}
                     </span>
                   </p>
@@ -257,8 +257,8 @@ export default function Content() {
               </div>
               <div className="vignesh-k28270" data-vignesh-name="Heading 4">
                 <div className="vignesh-16qwczd" data-vignesh-name="Visual Redirection" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Visual Redirection"}
                     </span>
                   </p>
@@ -267,8 +267,8 @@ export default function Content() {
             </div>
             <div className="vignesh-kr086o" data-vignesh-name="Paragraph">
               <div className="vignesh-1dys4rg" data-vignesh-name="All text elements, margins, paddings, backgrounds," data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Determine the user's primary fixation point and draw clear visual anchors/pointers from that point to the recovery action. "}
                   </span>
                 </p>
@@ -279,8 +279,8 @@ export default function Content() {
             <div className="vignesh-103jym2" data-vignesh-name="Container">
               <div className="vignesh-jlg44w" data-vignesh-name="Text">
                 <div className="vignesh-6wh9p6" data-vignesh-name="hearing" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "12px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--framer-font-family": "\"Roboto Mono\"", "--framer-font-size": "12px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "12px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\"", "--vignesh-font-size": "12px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(249, 249, 249, 1)" }} className="vignesh-text">
                       {"hearing"}
                     </span>
                   </p>
@@ -288,8 +288,8 @@ export default function Content() {
               </div>
               <div className="vignesh-cfq028" data-vignesh-name="Heading 4">
                 <div className="vignesh-11o4g6n" data-vignesh-name="Multisensory Cues" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p style={{ "--framer-font-size": "16px", "--framer-line-height": "20px" }} className="vignesh-text">
-                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--framer-font-size": "16px", "--framer-font-weight": "500", "--framer-letter-spacing": "0.55px", "--framer-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
+                  <p style={{ "--vignesh-font-size": "16px", "--vignesh-line-height": "20px" }} className="vignesh-text">
+                    <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-family": "\"Inter-Medium\", \"Inter\", sans-serif", "--vignesh-font-size": "16px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "0.55px", "--vignesh-text-color": "rgba(255, 255, 255, 1)" }} className="vignesh-text">
                       {"Multisensory Cues"}
                     </span>
                   </p>
@@ -298,8 +298,8 @@ export default function Content() {
             </div>
             <div className="vignesh-cq49ve" data-vignesh-name="Paragraph">
               <div className="vignesh-j4d7o6" data-vignesh-name="Drastically reduced switching overhead. Capture in" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                <p style={{ "--framer-font-size": "14px", "--framer-line-height": "18px" }} className="vignesh-text">
-                  <span style={{ "--font-selector": "SW50ZXI=", "--framer-font-family": "\"Inter\"", "--framer-font-size": "14px", "--framer-letter-spacing": "0px", "--framer-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
+                <p style={{ "--vignesh-font-size": "14px", "--vignesh-line-height": "18px" }} className="vignesh-text">
+                  <span style={{ "--font-selector": "SW50ZXI=", "--vignesh-font-family": "\"Inter\"", "--vignesh-font-size": "14px", "--vignesh-letter-spacing": "0px", "--vignesh-text-color": "rgba(165, 165, 165, 1)" }} className="vignesh-text">
                     {"Never rely on visual elements alone. Layer auditory alerts and physical haptic feedback to break attention lock. "}
                   </span>
                 </p>

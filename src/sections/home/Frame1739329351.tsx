@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Frame 1739329351".
+/** Generated from the vignesh section "Frame 1739329351".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Frame1739329351() {
   return (
@@ -17,28 +17,28 @@ export default function Frame1739329351() {
         <div className="vignesh-kkrk41" data-vignesh-name="Frame 1739329339">
           <div className="ssr-variant hidden-1alp9q5">
             <div className="vignesh-1ulnwmi" data-vignesh-name="Hello," data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "36px", "--framer-font-weight": "700", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "36px", "--vignesh-font-weight": "700", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"Hello,"}
               </p>
             </div>
           </div>
           <div className="ssr-variant hidden-72rtr7">
             <div className="vignesh-1ulnwmi" data-vignesh-name="Hello," data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "30px", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "30px", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"Hello,"}
               </p>
             </div>
           </div>
           <div className="ssr-variant hidden-1alp9q5">
             <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Shriraam Hemachander." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--framer-font-size": "36px", "--framer-font-weight": "700", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-size": "36px", "--vignesh-font-weight": "700", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"I’m Shriraam Hemachander."}
               </p>
             </div>
           </div>
           <div className="ssr-variant hidden-72rtr7">
             <div className="vignesh-1qz3eo2" data-vignesh-name="I’m Shriraam Hemachander." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-              <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-size": "30px", "--framer-font-weight": "600", "--framer-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
+              <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "30px", "--vignesh-font-weight": "600", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                 {"I’m Shriraam Hemachander."}
               </p>
             </div>
@@ -46,45 +46,45 @@ export default function Frame1739329351() {
         </div>
         <div className="ssr-variant hidden-1alp9q5">
           <div className="vignesh-1b3xt4j" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-font-size": "32px", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "1.4em", "--framer-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "32px", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
               {"I'm a"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"Senior Product Designer"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"specializing in enterprise AI and complex SaaS systems. I"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"turn"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"ambiguous, multi-stakeholder"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"workflows into"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"products"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"people actually trust"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"— without sacrificing speed or scale."}
@@ -93,47 +93,47 @@ export default function Frame1739329351() {
         </div>
         <div className="ssr-variant hidden-72rtr7">
           <div className="vignesh-1b3xt4j" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--framer-font-size": "28px", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "1.4em", "--framer-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-              <span style={{ "--framer-font-size": "32px" }} className="vignesh-text">
+            <p dir="auto" style={{ "--vignesh-font-size": "28px", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
+              <span style={{ "--vignesh-font-size": "32px" }} className="vignesh-text">
                 {"I'm a"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "32px", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "32px", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"Senior Product Designer"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"specializing in enterprise AI and complex SaaS systems. I"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"turn"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"ambiguous, multi-stakeholder"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"workflows into"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"products"}
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 {"people actually trust"}
               </span>
-              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-weight": "500" }} className="vignesh-text">
+              <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
                 {" "}
               </span>
               {"— without sacrificing speed or scale."}
@@ -142,14 +142,14 @@ export default function Frame1739329351() {
         </div>
         <div className="ssr-variant hidden-1alp9q5">
           <div className="vignesh-1pa9ue8" data-vignesh-name="Empathy-led. Motion-rich. User-first." data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNjAwaXRhbGlj", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "24px", "--framer-font-style": "italic", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "32px", "--framer-text-color": "rgba(102, 102, 102, 0.4)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNjAwaXRhbGlj", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "24px", "--vignesh-font-style": "italic", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgba(102, 102, 102, 0.4)" }} className="vignesh-text">
               {"Enterprise Complexity → Human Clarity"}
             </p>
           </div>
         </div>
         <div className="ssr-variant hidden-72rtr7">
           <div className="vignesh-1pa9ue8" data-vignesh-name="Empathy-led. Motion-rich. User-first." data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNjAwaXRhbGlj", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-style": "italic", "--framer-font-weight": "600", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "24px", "--framer-text-color": "rgba(102, 102, 102, 0.4)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNjAwaXRhbGlj", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-style": "italic", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "24px", "--vignesh-text-color": "rgba(102, 102, 102, 0.4)" }} className="vignesh-text">
               {"Enterprise Complexity → Human Clarity"}
             </p>
           </div>

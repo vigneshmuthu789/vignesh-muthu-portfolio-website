@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
 
-/** Generated from the Framer section "Frame 1739329354".
+/** Generated from the vignesh section "Frame 1739329354".
  *  Renders to the same DOM as the original — the Suspense boundaries here are
- *  Framer's hydration markers, so removing them would break its runtime.
+ *  vignesh's hydration markers, so removing them would break its runtime.
  *  Everything else is ordinary JSX: edit it like any other component. */
 export default function Frame1739329354() {
   return (
@@ -10,7 +10,7 @@ export default function Frame1739329354() {
       <div className="vignesh-1yxw7o1" data-border="true" data-vignesh-name="Frame 1739329348">
         <div className="vignesh-1bqjcqp" data-vignesh-name="Frame 1739329345">
           <div className="vignesh-ixv6fo" data-vignesh-name="Explorations & Side Projects" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--framer-font-family": "\"Roboto Mono\", monospace", "--framer-font-size": "20px", "--framer-font-weight": "500", "--framer-letter-spacing": "-0.02em", "--framer-line-height": "28px", "--framer-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
+            <p dir="auto" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tNTAw", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "28px", "--vignesh-text-color": "rgb(102, 102, 102)" }} className="vignesh-text">
               {"Articles"}
             </p>
           </div>
@@ -22,7 +22,7 @@ export default function Frame1739329354() {
               <div className="vignesh-1kcgspx-container">
                 <Suspense fallback={null}>
                   <Suspense fallback={null}>
-                    <a className="vignesh-lwKQ4 framer-oe3y8j framer-v-oe3y8j framer-1qkf3zo" data-vignesh-name="Book" href="./stencil" target="_blank" style={{ width: "100%" }}>
+                    <a className="vignesh-lwKQ4 vignesh-oe3y8j vignesh-v-oe3y8j vignesh-1qkf3zo" data-vignesh-name="Book" href="./stencil" target="_blank" style={{ width: "100%" }}>
                       <div className="vignesh-1xw62xy" data-vignesh-name="Back" style={{ borderBottomLeftRadius: "4px", borderBottomRightRadius: "8px", borderTopLeftRadius: "4px", borderTopRightRadius: "8px" }}>
                         <div className="vignesh-hvuvjw" data-vignesh-name="Left padding" style={{ transform: "perspective(1200px)" }} />
                         <div className="vignesh-16pnxjz" data-vignesh-name="Back Cover" style={{ backgroundColor: "rgb(25, 23, 23)", borderBottomRightRadius: "8px", borderTopRightRadius: "8px", boxShadow: "0.3010936508871964px 0px 0.24087492070975713px -1.1666666666666665px rgba(0, 0, 0, 0.68), 1.1442666516217286px 0px 0.9154133212973828px -2.333333333333333px rgba(0, 0, 0, 0.61), 5px 0px 4px -3.5px rgba(0, 0, 0, 0.3)", transform: "perspective(1200px)" }} />
@@ -71,7 +71,7 @@ export default function Frame1739329354() {
               <div className="vignesh-18btkcf-container">
                 <Suspense fallback={null}>
                   <Suspense fallback={null}>
-                    <a className="vignesh-lwKQ4 framer-oe3y8j framer-v-oe3y8j framer-1qkf3zo" data-vignesh-name="Book" href="./cognitive_tunneling" target="_blank" style={{ width: "100%" }}>
+                    <a className="vignesh-lwKQ4 vignesh-oe3y8j vignesh-v-oe3y8j vignesh-1qkf3zo" data-vignesh-name="Book" href="./cognitive_tunneling" target="_blank" style={{ width: "100%" }}>
                       <div className="vignesh-1xw62xy" data-vignesh-name="Back" style={{ borderBottomLeftRadius: "4px", borderBottomRightRadius: "8px", borderTopLeftRadius: "4px", borderTopRightRadius: "8px" }}>
                         <div className="vignesh-hvuvjw" data-vignesh-name="Left padding" style={{ transform: "perspective(1200px)" }} />
                         <div className="vignesh-16pnxjz" data-vignesh-name="Back Cover" style={{ backgroundColor: "rgb(32, 73, 102)", borderBottomRightRadius: "8px", borderTopRightRadius: "8px", boxShadow: "0.3010936508871964px 0px 0.24087492070975713px -1.1666666666666665px rgba(0, 0, 0, 0.68), 1.1442666516217286px 0px 0.9154133212973828px -2.333333333333333px rgba(0, 0, 0, 0.61), 5px 0px 4px -3.5px rgba(0, 0, 0, 0.3)", transform: "perspective(1200px)" }} />
@@ -120,7 +120,7 @@ export default function Frame1739329354() {
               <div className="vignesh-p1cst8-container">
                 <Suspense fallback={null}>
                   <Suspense fallback={null}>
-                    <a className="vignesh-lwKQ4 framer-oe3y8j framer-v-oe3y8j framer-1qkf3zo" data-vignesh-name="Book" href="./404" target="_blank" style={{ width: "100%" }}>
+                    <a className="vignesh-lwKQ4 vignesh-oe3y8j vignesh-v-oe3y8j vignesh-1qkf3zo" data-vignesh-name="Book" href="./404" target="_blank" style={{ width: "100%" }}>
                       <div className="vignesh-1xw62xy" data-vignesh-name="Back" style={{ borderBottomLeftRadius: "4px", borderBottomRightRadius: "8px", borderTopLeftRadius: "4px", borderTopRightRadius: "8px" }}>
                         <div className="vignesh-hvuvjw" data-vignesh-name="Left padding" style={{ transform: "perspective(1200px)" }} />
                         <div className="vignesh-16pnxjz" data-vignesh-name="Back Cover" style={{ backgroundColor: "rgb(19, 151, 244)", borderBottomRightRadius: "8px", borderTopRightRadius: "8px", boxShadow: "0.3010936508871964px 0px 0.24087492070975713px -1.1666666666666665px rgba(0, 0, 0, 0.68), 1.1442666516217286px 0px 0.9154133212973828px -2.333333333333333px rgba(0, 0, 0, 0.61), 5px 0px 4px -3.5px rgba(0, 0, 0, 0.3)", transform: "perspective(1200px)" }} />

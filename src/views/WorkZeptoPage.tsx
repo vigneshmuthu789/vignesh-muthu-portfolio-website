@@ -7,7 +7,7 @@ import Frame17393293552 from "@/src/sections/work-zepto/Frame17393293552";
 import Frame17393293562 from "@/src/sections/work-zepto/Frame17393293562";
 import TopBar from "@/src/sections/work-zepto/TopBar";
 
-/** The "/work/zepto" page, composed from its Framer sections.
+/** The "/work/zepto" page, composed from its vignesh sections.
  *
  *  Rendered to static HTML by scripts/prerender.mts at build time — never
  *  shipped as a page.tsx, which would duplicate every byte of this markup into
@@ -23,13 +23,13 @@ export default function WorkZeptoPage() {
       <div id="main" data-vignesh-hydrate-v2={"{\"routeId\":\"IO45H3Rdf\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"1uxv7jj\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1g4wfox\",\"mediaQuery\":\"(max-width: 1199.98px)\"}]}"} data-vignesh-ssr-released-at="2026-07-06T15:12:41.348Z" data-vignesh-page-optimized-at="2026-07-06T20:17:30.787Z" data-vignesh-generated-page="">
         <Suspense fallback={null}>
           <style data-vignesh-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: rgb(255, 255, 255); }" }} />
-          <div data-vignesh-root="" className="vignesh-WzZe1 framer-1uxv7jj" style={{ minHeight: "100vh", width: "auto" }}>
+          <div data-vignesh-root="" className="vignesh-WzZe1 vignesh-1uxv7jj" style={{ minHeight: "100vh", width: "auto" }}>
             <div className="vignesh-1jvov07 hidden-1uxv7jj">
               <Suspense fallback={null}>
-                <a className="vignesh-eyddot hidden-1uxv7jj framer-wkqtdq" data-vignesh-name="Frame 2606774" href="../work">
+                <a className="vignesh-eyddot hidden-1uxv7jj vignesh-wkqtdq" data-vignesh-name="Frame 2606774" href="../work">
                   <div data-vignesh-component-type="SVG" data-vignesh-name="ArrowBendUpLeft" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="vignesh-12e7gb" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0", backgroundSize: "100% 100%", backgroundImage: "url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 16 16%22><path d=%22M 13.875 12.519 C 13.875 12.641 13.826 12.759 13.739 12.845 C 13.653 12.932 13.535 12.98 13.413 12.98 C 13.291 12.98 13.173 12.932 13.087 12.845 C 13 12.759 12.951 12.641 12.951 12.519 C 12.95 11.173 12.415 9.882 11.463 8.931 C 10.511 7.979 9.221 7.443 7.875 7.442 L 3.45 7.442 L 5.432 9.423 C 5.519 9.51 5.567 9.627 5.567 9.75 C 5.567 9.872 5.519 9.99 5.432 10.076 C 5.345 10.163 5.228 10.211 5.106 10.211 C 4.983 10.211 4.866 10.163 4.779 10.076 L 2.01 7.307 C 1.967 7.264 1.933 7.213 1.91 7.157 C 1.886 7.101 1.875 7.041 1.875 6.98 C 1.875 6.92 1.886 6.86 1.91 6.804 C 1.933 6.748 1.967 6.697 2.01 6.654 L 4.779 3.885 C 4.866 3.798 4.983 3.75 5.106 3.75 C 5.228 3.75 5.345 3.798 5.432 3.885 C 5.519 3.971 5.567 4.089 5.567 4.211 C 5.567 4.334 5.519 4.451 5.432 4.538 L 3.45 6.519 L 7.875 6.519 C 9.465 6.521 10.991 7.153 12.115 8.278 C 13.24 9.403 13.873 10.928 13.875 12.519 Z%22 fill=%22rgb(11,61,145)%22></path></svg>')" }} />
                   <div className="vignesh-1jebgds" data-vignesh-name="Back" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                    <p dir="auto" style={{ "--framer-font-size": "12px", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
+                    <p dir="auto" style={{ "--vignesh-font-size": "12px", "--vignesh-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
                       {"Back"}
                     </p>
                   </div>
@@ -37,14 +37,14 @@ export default function WorkZeptoPage() {
               </Suspense>
               <div className="vignesh-1f29lkd">
                 <div className="vignesh-1x2bgg4 hidden-1uxv7jj" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
-                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--framer-font-weight": "600", "--framer-line-height": "32px", "--framer-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
+                  <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-line-height": "32px", "--vignesh-text-color": "rgb(11, 61, 145)" }} className="vignesh-text">
                     {"Procure AI"}
                   </p>
                 </div>
               </div>
               <Suspense fallback={null}>
-                <a className="vignesh-1ckzf4h framer-wkqtdq" id="1ckzf4h" href="#" rel="noopener" tabIndex={0}>
-                  <svg className="vignesh-iZmZi framer-nyb0n1 hidden-1uxv7jj" role="presentation" viewBox="0 0 24 24">
+                <a className="vignesh-1ckzf4h vignesh-wkqtdq" id="1ckzf4h" href="#" rel="noopener" tabIndex={0}>
+                  <svg className="vignesh-iZmZi vignesh-nyb0n1 hidden-1uxv7jj" role="presentation" viewBox="0 0 24 24">
                     <use href="#3559153988" />
                   </svg>
                 </a>
@@ -68,7 +68,7 @@ export default function WorkZeptoPage() {
             </div>
             <div className="ssr-variant hidden-1g4wfox">
               <div className="vignesh-980r1o-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-n2gets" data-vignesh-name="Desktop" style={{ width: "100%" }}>
                   <Frame1739329355 />
                   <Frame1739329356 />
                 </div>
@@ -76,7 +76,7 @@ export default function WorkZeptoPage() {
             </div>
             <div className="ssr-variant hidden-1uxv7jj">
               <div className="vignesh-980r1o-container">
-                <div className="vignesh-PPNtr framer-n2gets framer-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
+                <div className="vignesh-PPNtr vignesh-n2gets vignesh-v-msne37" data-vignesh-name="Mobile" style={{ width: "100%" }}>
                   <Frame17393293552 />
                   <Frame17393293562 />
                 </div>
