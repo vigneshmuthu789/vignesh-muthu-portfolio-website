@@ -144,7 +144,7 @@ function createResume(outputPath) {
     {
       role: "Product Designer II",
       period: "06/2024 – 07/2026",
-      company: "Microgate Technologies Private Limited",
+      company: "Microgate",
       location: "Hyderabad",
       bullets: [
         "Led end-to-end UX for enterprise product features, translating business requirements into clear design outcomes across user flows, wireframes, high-fidelity UI, and interactive prototypes, resulting in a 28% improvement in task completion rates.",
@@ -157,7 +157,7 @@ function createResume(outputPath) {
     {
       role: "Product Design Intern",
       period: "05/2023 – 12/2023",
-      company: "Designart Design Studio",
+      company: "Designart",
       location: "Chennai",
       bullets: [
         "Undertaken as part of the M.Des curriculum; designed Vehicle HMI Dashboards by analyzing user needs and creating optimized digital interfaces for automotive systems.",
@@ -168,7 +168,7 @@ function createResume(outputPath) {
     {
       role: "Product Designer",
       period: "06/2020 – 05/2022",
-      company: "Proventus Business Solutions Pvt Ltd",
+      company: "Proventus",
       location: "Bengaluru",
       bullets: [
         "Conducted user research and usability testing to understand target user behavior and improve digital product experiences.",

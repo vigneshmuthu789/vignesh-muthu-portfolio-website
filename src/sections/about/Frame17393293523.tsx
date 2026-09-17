@@ -24,7 +24,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250)))" } as any}>
-                        {"Microgate Technologies Private Limited"}
+                        {"Microgate"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
@@ -47,7 +47,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102)))" } as any}>
-                        {"Designart Design Studio"}
+                        {"Designart"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
@@ -70,7 +70,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102)))" } as any}>
-                        {"Proventus Business Solutions Pvt Ltd"}
+                        {"Proventus"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
@@ -102,7 +102,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250)))" } as any}>
-                        {"Microgate Technologies Private Limited"}
+                        {"Microgate"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-28ada5df-c75d-45de-b6b6-690e156e6285, rgb(250, 250, 250))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
@@ -125,7 +125,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102)))" } as any}>
-                        {"Designart Design Studio"}
+                        {"Designart"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
@@ -148,7 +148,7 @@ export default function Frame17393293523() {
                   <div className="vignesh-1qsqpmm" data-vignesh-name="Company & Periode">
                     <div className="vignesh-1o7vxyg" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
                       <p dir="auto" className="vignesh-text" style={{ "--font-selector": "R0Y7Um9ib3RvIE1vbm8tcmVndWxhcg==", "--vignesh-font-family": "\"Roboto Mono\", monospace", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.4em", "--vignesh-text-alignment": "left", "--vignesh-text-color": "var(--extracted-r6o4lv, var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102)))" } as any}>
-                        {"Proventus Business Solutions Pvt Ltd"}
+                        {"Proventus"}
                       </p>
                     </div>
                     <div className="vignesh-1j9dwtn" data-vignesh-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))", "--vignesh-link-text-color": "rgb(0, 153, 255)", "--vignesh-link-text-decoration": "underline", transform: "none" } as any}>
