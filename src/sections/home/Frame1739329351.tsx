@@ -45,7 +45,7 @@ export default function Frame1739329351() {
           </div>
         </div>
         <div className="ssr-variant hidden-1alp9q5">
-          <div className="vignesh-1b3xt4j" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+          <div className="vignesh-1b3xt4j" data-vignesh-name="Product Designer | UX Designer" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p dir="auto" style={{ "--vignesh-font-size": "32px", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
               {"I'm a"}
               <span style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-weight": "500" }} className="vignesh-text">
@@ -92,7 +92,7 @@ export default function Frame1739329351() {
           </div>
         </div>
         <div className="ssr-variant hidden-72rtr7">
-          <div className="vignesh-1b3xt4j" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+          <div className="vignesh-1b3xt4j" data-vignesh-name="Product Designer | UX Designer" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p dir="auto" style={{ "--vignesh-font-size": "28px", "--vignesh-letter-spacing": "-0.02em", "--vignesh-line-height": "1.4em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
               <span style={{ "--vignesh-font-size": "32px" }} className="vignesh-text">
                 {"I'm a"}

@@ -51,7 +51,7 @@ export default function Frame1739329347() {
             </Suspense>
             <div className="vignesh-ndkox9-container">
               <Suspense fallback={null}>
-                <a className="vignesh-w3R4e vignesh-151fk8i vignesh-v-7ezd83 vignesh-8ejow2" data-vignesh-name="Defualt/Desktop" data-highlight="true" href="https://drive.google.com/file/d/1TLwkPLYMLubaYnzED_PCEIPWM9t8732j/view?usp=sharing" target="_blank" rel="noopener" tabIndex={0} style={{ backgroundColor: "rgba(0, 0, 0, 0)", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px", boxShadow: "none", opacity: "0.4" }}>
+                <a className="vignesh-w3R4e vignesh-151fk8i vignesh-v-7ezd83 vignesh-8ejow2" data-vignesh-name="Defualt/Desktop" data-highlight="true" href="/vignesh_muthu_resume.pdf" target="_blank" rel="noopener" tabIndex={0} style={{ backgroundColor: "rgba(0, 0, 0, 0)", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px", boxShadow: "none", opacity: "0.4" }}>
                   <div className="vignesh-56fc65" data-vignesh-name="Home" data-vignesh-component-type="RichTextContainer" style={{ "--vignesh-paragraph-spacing": "3.927940607070923px", "--extracted-r6o4lv": "rgba(0, 0, 0, 0.5)", transform: "none" }}>
                     <p dir="auto" className="vignesh-text" style={{ "--vignesh-font-size": "18px", "--vignesh-text-color": "var(--extracted-r6o4lv, rgba(0, 0, 0, 0.5))" }}>
                       {"Resume"}
@@ -116,7 +116,7 @@ export default function Frame1739329347() {
             </Suspense>
             <div className="vignesh-ndkox9-container">
               <Suspense fallback={null}>
-                <a className="vignesh-w3R4e vignesh-151fk8i vignesh-v-aflrsk vignesh-8ejow2" data-vignesh-name="Default Mobile" data-highlight="true" href="https://drive.google.com/file/d/1TLwkPLYMLubaYnzED_PCEIPWM9t8732j/view?usp=sharing" rel="noopener" tabIndex={0} style={{ backgroundColor: "rgba(0, 0, 0, 0)", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px", boxShadow: "none", opacity: "1" }}>
+                <a className="vignesh-w3R4e vignesh-151fk8i vignesh-v-aflrsk vignesh-8ejow2" data-vignesh-name="Default Mobile" data-highlight="true" href="/vignesh_muthu_resume.pdf" rel="noopener" tabIndex={0} style={{ backgroundColor: "rgba(0, 0, 0, 0)", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px", boxShadow: "none", opacity: "1" }}>
                   <div className="vignesh-56fc65" data-vignesh-name="Home" data-vignesh-component-type="RichTextContainer" style={{ "--vignesh-paragraph-spacing": "3.927940607070923px", "--extracted-r6o4lv": "rgba(0, 0, 0, 0.5)", transform: "none" }}>
                     <p dir="auto" className="vignesh-text" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-size": "12px", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--extracted-r6o4lv, rgba(0, 0, 0, 0.5))" }}>
                       {"Resume"}

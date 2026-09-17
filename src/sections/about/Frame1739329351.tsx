@@ -8,7 +8,7 @@ export default function Frame1739329351() {
   return (
     <div className="vignesh-44wkia" data-border="true" data-vignesh-name="Frame 1739329351">
       <div className="vignesh-45rf9i" data-border="true" data-vignesh-name="Frame 1739329340">
-        <div className="vignesh-1j45s1s" data-vignesh-name="I’m a UX Designer II working at  HashedIn by Deloitte." data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+        <div className="vignesh-1j45s1s" data-vignesh-name="Product Designer | UX Designer" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
           <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-size": "36px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.02em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
             {"Vignesh Muthu transforms complex challenges into intuitive, human-centered experiences — "}
             <span style={{ "--font-selector": "SW50ZXItQm9sZA==", "--vignesh-font-weight": "700", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
