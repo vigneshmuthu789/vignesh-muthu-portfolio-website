@@ -9,45 +9,62 @@ interface AnimatedCounterProps {
 }
 
 export default function AnimatedCounter({ target, fontSize = "48px" }: AnimatedCounterProps) {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(target);
   const ref = useRef<HTMLDivElement>(null);
-  const [hasAnimated, setHasAnimated] = useState(false);
+  const animatedRef = useRef(false);
 
   useEffect(() => {
     const el = ref.current;
-    if (!el) return;
+    if (!el || animatedRef.current) return;
+
+    let animationFrameId: number;
+
+    const startAnimation = () => {
+      if (animatedRef.current) return;
+      animatedRef.current = true;
+      setCount(0);
+      const duration = 1400; // 1.4s
+      const startTime = performance.now();
+
+      const animate = (currentTime: number) => {
+        const elapsed = currentTime - startTime;
+        const progress = Math.min(elapsed / duration, 1);
+        // Ease out cubic
+        const easeProgress = 1 - Math.pow(1 - progress, 3);
+        const currentVal = Math.floor(easeProgress * target);
+        setCount(currentVal);
+
+        if (progress < 1) {
+          animationFrameId = requestAnimationFrame(animate);
+        } else {
+          setCount(target);
+        }
+      };
+
+      animationFrameId = requestAnimationFrame(animate);
+    };
+
+    if (typeof IntersectionObserver === "undefined") {
+      startAnimation();
+      return;
+    }
 
     const observer = new IntersectionObserver(
       (entries) => {
-        if (entries[0].isIntersecting && !hasAnimated) {
-          setHasAnimated(true);
-          const duration = 1400; // 1.4s
-          const startTime = performance.now();
-
-          const animate = (currentTime: number) => {
-            const elapsed = currentTime - startTime;
-            const progress = Math.min(elapsed / duration, 1);
-            // Ease out cubic
-            const easeProgress = 1 - Math.pow(1 - progress, 3);
-            const currentVal = Math.floor(easeProgress * target);
-            setCount(currentVal);
-
-            if (progress < 1) {
-              requestAnimationFrame(animate);
-            } else {
-              setCount(target);
-            }
-          };
-
-          requestAnimationFrame(animate);
+        if (entries[0].isIntersecting && !animatedRef.current) {
+          startAnimation();
+          observer.disconnect();
         }
       },
-      { threshold: 0.2 }
+      { threshold: 0.1 }
     );
 
     observer.observe(el);
-    return () => observer.disconnect();
-  }, [target, hasAnimated]);
+    return () => {
+      observer.disconnect();
+      if (animationFrameId) cancelAnimationFrame(animationFrameId);
+    };
+  }, [target]);
 
   return (
     <div
@@ -55,7 +72,7 @@ export default function AnimatedCounter({ target, fontSize = "48px" }: AnimatedC
       role="status"
       aria-live="polite"
       aria-atomic="true"
-      aria-label={`Counting from 0 to ${target}`}
+      aria-label={`Counting to ${target}`}
       style={{
         fontFamily: '"Inter", "Inter Placeholder", sans-serif',
         fontSize: fontSize,
@@ -88,3 +105,4 @@ export default function AnimatedCounter({ target, fontSize = "48px" }: AnimatedC
     </div>
   );
 }
+
