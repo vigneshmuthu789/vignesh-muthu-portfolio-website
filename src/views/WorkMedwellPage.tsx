@@ -459,7 +459,7 @@ export default function WorkMedwellPage() {
         {"\n"}
         <svg width="45" height="64" viewBox="0 0 45 64" fill="none" id="svg621931287_638">
           {"\n"}
-          <path d="M36.5871 11.2687L9.86857 25.8303C9.52101 26.0197 9.54515 26.4843 9.9108 26.6431L34.5217 37.3346C34.8873 37.4934 34.9114 37.958 34.5639 38.1474L7.75468 52.7584C7.37609 52.9647 6.90776 52.6649 6.99435 52.2717L10.1553 37.9159C10.1847 37.7824 10.2775 37.6674 10.4089 37.6018L32.8962 26.3675C33.0178 26.3067 33.1068 26.2035 33.1426 26.0817L37.3401 11.7839C37.4578 11.3828 36.9789 11.0552 36.5871 11.2687Z" stroke="white" strokeOpacity="0.9" style={{ stroke: "white", strokeOpacity: "0.9" }} strokeWidth="3.16399" strokeMiterlimit="10" />
+          <image href="/favicon.png" width="45" height="64" preserveAspectRatio="xMidYMid meet" />
           {"\n"}
         </svg>
         {"\n"}
