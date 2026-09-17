@@ -26,7 +26,7 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-yx36ok" data-vignesh-name="Default/ Desktop">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <AnimatedCounter target={5} fontSize="48px" />
+                        <AnimatedCounter target={4} fontSize="48px" />
                       </Suspense>
                     </div>
                   </div>
@@ -37,21 +37,21 @@ export default function Frame1739329352() {
                   <div className="vignesh-8A7yd vignesh-yx36ok vignesh-v-871qgt" data-vignesh-name="Default/Mobile">
                     <div className="vignesh-160kzkb-container">
                       <Suspense fallback={null}>
-                        <AnimatedCounter target={5} fontSize="32px" />
+                        <AnimatedCounter target={4} fontSize="32px" />
                       </Suspense>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="ssr-variant hidden-1alp9q5">
-                <div className="vignesh-ffp36l" data-vignesh-name="5+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                <div className="vignesh-ffp36l" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
                   <p dir="auto" style={{ "--vignesh-font-size": "32px", "--vignesh-letter-spacing": "0.02em", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-72rtr7">
-                <div className="vignesh-ffp36l" data-vignesh-name="5+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
+                <div className="vignesh-ffp36l" data-vignesh-name="4+" data-vignesh-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
                   <p dir="auto" style={{ "--vignesh-font-size": "24px", "--vignesh-letter-spacing": "0.02em", "--vignesh-text-color": "rgb(51, 51, 51)" }} className="vignesh-text">
                     {"+"}
                   </p>
