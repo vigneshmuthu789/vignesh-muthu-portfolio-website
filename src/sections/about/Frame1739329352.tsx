@@ -21,63 +21,68 @@ export default function Frame1739329352() {
                 <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                   {"Mechanical Engineering at Panimalar Institute of Technology"}
                 </span>
-                {", where I was fascinated by machines — especially gears. I often asked:"}
+                {", where I was fascinated by how machines came together — especially the systems inside them. I often asked myself:"}
               </p>
             </div>
             <div className="vignesh-7ofcn2" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.6em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"Why are gears always round? Why do mechanical components favor curves?"}
+                {"Why does every product feel different to use, even when the mechanics are similar? What actually makes something feel \"good\" to a person?"}
               </p>
             </div>
             <div className="vignesh-1wf01l6" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"This led me to a"}
+                {"This curiosity carried me through my early career as a "}
                 <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                  {" CADD course"}
+                  {"Product Designer at Proventus, Bengaluru"}
                 </span>
-                {", where I became a tutor at "}
-                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                  {"Diagonal CADD Center"}
-                </span>
-                {", Ambattur. While designing in AutoCAD, another question emerged:"}
+                {", where I ran user research and usability tests for the first time. Watching real people struggle with — or delight in — something I'd designed changed how I saw my role. Another question emerged:"}
               </p>
             </div>
             <div className="vignesh-hhncbi" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.6em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"Who decides these dimensions? What happens if I change them?"}
+                {"How do you design for a person you've never met, using patterns you can't always see?"}
               </p>
             </div>
             <div className="vignesh-udjwbx" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"That curiosity brought me to"}
+                {"That question brought me to my "}
                 <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                  {" VIT’s School of Design"}
+                  {"Master’s in Product Design at IIITDM"}
                 </span>
-                {", where I pursued my "}
+                {", where I discovered that design isn't just about interfaces — it's about systems, context, and the physical-digital line disappearing. During my internship at "}
                 <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                  {"Master’s in Industrial Design"}
+                  {"Designart"}
                 </span>
-                {". There, I discovered that:"}
+                {", designing Vehicle HMI dashboards, I learned that:"}
               </p>
             </div>
             <div className="vignesh-7a99fb" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.6em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"Design isn’t about us — it’s about them - Users"}
+                {"Good design holds up even when the user is distracted, moving, or under pressure — it has to work in the real world, not just on screen."}
+              </p>
+            </div>
+            <div className="vignesh-udjwbx" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
+              <p dir="auto" style={{ "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
+                {"That lesson stayed with me into my role as "}
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+                  {"Product Designer II at Microgate"}
+                </span>
+                {", where I led the Chiltier project as "}
+                <span style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-weight": "600", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
+                  {"Head of Product Design"}
+                </span>
+                {" — my first time owning a hybrid physical-and-digital product end to end. Watching a design system I built cut front-end rework by 40%, and seeing UX audits translate directly into a 28% jump in task completion, gave me a sense of impact I hadn't felt before."}
               </p>
             </div>
             <div className="vignesh-1l07or8" data-vignesh-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItU2VtaUJvbGQ=", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "600", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                {"\"User satisfaction is our satisfaction — when we step into their shoes, we design with meaning\""}
+                {"\"Design isn't finished when it looks right — it's finished when it holds up in someone else's hands.\""}
               </p>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
                 <br className="vignesh-text trailing-break" />
               </p>
               <p dir="auto" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--vignesh-font-open-type-features": "'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on", "--vignesh-font-size": "20px", "--vignesh-font-weight": "500", "--vignesh-letter-spacing": "-0.03em", "--vignesh-line-height": "1.3em", "--vignesh-text-color": "var(--token-df7e68e6-b73c-4dc3-86d1-b710ddee17b5, rgb(102, 102, 102))" }} className="vignesh-text">
-                {"A user interview during one of my early projects gave me a sense of "}
-                <span style={{ "--vignesh-text-color": "var(--token-488eeb43-eb39-49af-8d9c-3e8fc85c371a, rgb(51, 51, 51))" }} className="vignesh-text">
-                  {"fulfillment"}
-                </span>
-                {" I hadn’t felt before. That moment became my compass."}
+                {"That belief is what I bring into every product I design today."}
               </p>
             </div>
           </div>
