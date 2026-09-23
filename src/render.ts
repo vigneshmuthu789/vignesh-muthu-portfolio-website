@@ -95,6 +95,7 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
   // — so an export that is only ever run locally is unaffected.
   const claritySnippet = getClaritySnippet();
   const gtagSnippet = getGtagSnippet();
+  const gtmSnippets = getGtmSnippets();
   const head = SITE_ORIGIN
     ? page.head
         .replace(
@@ -107,8 +108,9 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
         )
     : page.head;
 
-  return `${page.prologue}<html${page.htmlAttrs}><head>${head}${claritySnippet}${gtagSnippet}</head>${page.afterHead}${body}</html>`;
+  return `${page.prologue}<html${page.htmlAttrs}><head>${head}${claritySnippet}${gtagSnippet}${gtmSnippets.head}</head>${page.afterHead}${gtmSnippets.body}${body}</html>`;
 }
+
 
 function getClaritySnippet(): string {
   let clarityId = process.env.NEXT_PUBLIC_CLARITY_ID || process.env.CLARITY_ID || "";
@@ -167,6 +169,40 @@ function getGtagSnippet(): string {
   gtag('config', '${gaId}');
 </script>`;
 }
+
+function getGtmSnippets(): { head: string; body: string } {
+  let gtmId = process.env.NEXT_PUBLIC_GTM_ID || process.env.GTM_ID || "";
+  if (!gtmId) {
+    try {
+      const envFile = readFileSync(join(root, ".env.local"), "utf8");
+      const match = envFile.match(/(?:NEXT_PUBLIC_GTM_ID|GTM_ID)\s*=\s*["']?([^"'\s\r\n]+)["']?/);
+      if (match && match[1] && !match[1].startsWith("YOUR_")) gtmId = match[1];
+    } catch {}
+  }
+  if (!gtmId) {
+    try {
+      const envFile = readFileSync(join(root, ".env"), "utf8");
+      const match = envFile.match(/(?:NEXT_PUBLIC_GTM_ID|GTM_ID)\s*=\s*["']?([^"'\s\r\n]+)["']?/);
+      if (match && match[1] && !match[1].startsWith("YOUR_")) gtmId = match[1];
+    } catch {}
+  }
+  if (!gtmId) gtmId = "GTM-NMKSK6NR";
+
+  return {
+    head: `<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','${gtmId}');</script>
+<!-- End Google Tag Manager -->`,
+    body: `<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${gtmId}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->`,
+  };
+}
+
 
 
 
