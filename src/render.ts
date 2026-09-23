@@ -93,6 +93,7 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
   // canonical as a weak signal and Lighthouse's canonical audit fails outright
   // on one. Without an origin they stay relative — still correct, just weaker
   // — so an export that is only ever run locally is unaffected.
+  const claritySnippet = getClaritySnippet();
   const head = SITE_ORIGIN
     ? page.head
         .replace(
@@ -105,5 +106,36 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
         )
     : page.head;
 
-  return `${page.prologue}<html${page.htmlAttrs}><head>${head}</head>${page.afterHead}${body}</html>`;
+  return `${page.prologue}<html${page.htmlAttrs}><head>${head}${claritySnippet}</head>${page.afterHead}${body}</html>`;
 }
+
+function getClaritySnippet(): string {
+  let clarityId = process.env.NEXT_PUBLIC_CLARITY_ID || process.env.CLARITY_ID || "";
+  if (!clarityId) {
+    try {
+      const envFile = readFileSync(join(root, ".env.local"), "utf8");
+      const match = envFile.match(/(?:NEXT_PUBLIC_CLARITY_ID|CLARITY_ID)\s*=\s*["']?([^"'\s\r\n]+)["']?/);
+      if (match && match[1] && !match[1].startsWith("YOUR_")) clarityId = match[1];
+    } catch {}
+  }
+  if (!clarityId) {
+    try {
+      const envFile = readFileSync(join(root, ".env"), "utf8");
+      const match = envFile.match(/(?:NEXT_PUBLIC_CLARITY_ID|CLARITY_ID)\s*=\s*["']?([^"'\s\r\n]+)["']?/);
+      if (match && match[1] && !match[1].startsWith("YOUR_")) clarityId = match[1];
+    } catch {}
+  }
+  // Default fallback to your Clarity Project ID
+  if (!clarityId) clarityId = "ymwbj38852";
+
+  return `<!-- Microsoft Clarity -->
+<script type="text/javascript">
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "${clarityId}");
+</script>`;
+}
+
+
